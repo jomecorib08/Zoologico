@@ -1,0 +1,66 @@
+C:\Users\Estudiante\Documents\Visual Studio 2013\Projects\ejercicio ASP.NET\ejercicio ASP.NET\bin\ejercicio ASP.NET.dll.config
+C:\Users\Estudiante\Documents\Visual Studio 2013\Projects\ejercicio ASP.NET\ejercicio ASP.NET\bin\ejercicio ASP.NET.dll
+C:\Users\Estudiante\Documents\Visual Studio 2013\Projects\ejercicio ASP.NET\ejercicio ASP.NET\bin\ejercicio ASP.NET.pdb
+C:\Users\Estudiante\Documents\Visual Studio 2013\Projects\ejercicio ASP.NET\ejercicio ASP.NET\bin\Antlr3.Runtime.dll
+C:\Users\Estudiante\Documents\Visual Studio 2013\Projects\ejercicio ASP.NET\ejercicio ASP.NET\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Estudiante\Documents\Visual Studio 2013\Projects\ejercicio ASP.NET\ejercicio ASP.NET\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Estudiante\Documents\Visual Studio 2013\Projects\ejercicio ASP.NET\ejercicio ASP.NET\bin\EntityFramework.dll
+C:\Users\Estudiante\Documents\Visual Studio 2013\Projects\ejercicio ASP.NET\ejercicio ASP.NET\bin\EntityFramework.SqlServer.dll
+C:\Users\Estudiante\Documents\Visual Studio 2013\Projects\ejercicio ASP.NET\ejercicio ASP.NET\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Estudiante\Documents\Visual Studio 2013\Projects\ejercicio ASP.NET\ejercicio ASP.NET\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Estudiante\Documents\Visual Studio 2013\Projects\ejercicio ASP.NET\ejercicio ASP.NET\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Estudiante\Documents\Visual Studio 2013\Projects\ejercicio ASP.NET\ejercicio ASP.NET\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Estudiante\Documents\Visual Studio 2013\Projects\ejercicio ASP.NET\ejercicio ASP.NET\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Estudiante\Documents\Visual Studio 2013\Projects\ejercicio ASP.NET\ejercicio ASP.NET\bin\Microsoft.Owin.dll
+C:\Users\Estudiante\Documents\Visual Studio 2013\Projects\ejercicio ASP.NET\ejercicio ASP.NET\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Estudiante\Documents\Visual Studio 2013\Projects\ejercicio ASP.NET\ejercicio ASP.NET\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Estudiante\Documents\Visual Studio 2013\Projects\ejercicio ASP.NET\ejercicio ASP.NET\bin\Microsoft.Owin.Security.dll
+C:\Users\Estudiante\Documents\Visual Studio 2013\Projects\ejercicio ASP.NET\ejercicio ASP.NET\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Estudiante\Documents\Visual Studio 2013\Projects\ejercicio ASP.NET\ejercicio ASP.NET\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Estudiante\Documents\Visual Studio 2013\Projects\ejercicio ASP.NET\ejercicio ASP.NET\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Estudiante\Documents\Visual Studio 2013\Projects\ejercicio ASP.NET\ejercicio ASP.NET\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Estudiante\Documents\Visual Studio 2013\Projects\ejercicio ASP.NET\ejercicio ASP.NET\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Estudiante\Documents\Visual Studio 2013\Projects\ejercicio ASP.NET\ejercicio ASP.NET\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Estudiante\Documents\Visual Studio 2013\Projects\ejercicio ASP.NET\ejercicio ASP.NET\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Estudiante\Documents\Visual Studio 2013\Projects\ejercicio ASP.NET\ejercicio ASP.NET\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Estudiante\Documents\Visual Studio 2013\Projects\ejercicio ASP.NET\ejercicio ASP.NET\bin\Newtonsoft.Json.dll
+C:\Users\Estudiante\Documents\Visual Studio 2013\Projects\ejercicio ASP.NET\ejercicio ASP.NET\bin\Owin.dll
+C:\Users\Estudiante\Documents\Visual Studio 2013\Projects\ejercicio ASP.NET\ejercicio ASP.NET\bin\System.Web.Optimization.dll
+C:\Users\Estudiante\Documents\Visual Studio 2013\Projects\ejercicio ASP.NET\ejercicio ASP.NET\bin\System.Web.Providers.dll
+C:\Users\Estudiante\Documents\Visual Studio 2013\Projects\ejercicio ASP.NET\ejercicio ASP.NET\bin\WebGrease.dll
+C:\Users\Estudiante\Documents\Visual Studio 2013\Projects\ejercicio ASP.NET\ejercicio ASP.NET\bin\System.Web.Optimization.xml
+C:\Users\Estudiante\Documents\Visual Studio 2013\Projects\ejercicio ASP.NET\ejercicio ASP.NET\bin\Antlr3.Runtime.pdb
+C:\Users\Estudiante\Documents\Visual Studio 2013\Projects\ejercicio ASP.NET\ejercicio ASP.NET\bin\Newtonsoft.Json.xml
+C:\Users\Estudiante\Documents\Visual Studio 2013\Projects\ejercicio ASP.NET\ejercicio ASP.NET\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Estudiante\Documents\Visual Studio 2013\Projects\ejercicio ASP.NET\ejercicio ASP.NET\bin\EntityFramework.xml
+C:\Users\Estudiante\Documents\Visual Studio 2013\Projects\ejercicio ASP.NET\ejercicio ASP.NET\bin\EntityFramework.SqlServer.xml
+C:\Users\Estudiante\Documents\Visual Studio 2013\Projects\ejercicio ASP.NET\ejercicio ASP.NET\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Estudiante\Documents\Visual Studio 2013\Projects\ejercicio ASP.NET\ejercicio ASP.NET\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Estudiante\Documents\Visual Studio 2013\Projects\ejercicio ASP.NET\ejercicio ASP.NET\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Estudiante\Documents\Visual Studio 2013\Projects\ejercicio ASP.NET\ejercicio ASP.NET\bin\Microsoft.Owin.xml
+C:\Users\Estudiante\Documents\Visual Studio 2013\Projects\ejercicio ASP.NET\ejercicio ASP.NET\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Estudiante\Documents\Visual Studio 2013\Projects\ejercicio ASP.NET\ejercicio ASP.NET\bin\Microsoft.Owin.Security.xml
+C:\Users\Estudiante\Documents\Visual Studio 2013\Projects\ejercicio ASP.NET\ejercicio ASP.NET\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Estudiante\Documents\Visual Studio 2013\Projects\ejercicio ASP.NET\ejercicio ASP.NET\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Estudiante\Documents\Visual Studio 2013\Projects\ejercicio ASP.NET\ejercicio ASP.NET\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Estudiante\Documents\Visual Studio 2013\Projects\ejercicio ASP.NET\ejercicio ASP.NET\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Estudiante\Documents\Visual Studio 2013\Projects\ejercicio ASP.NET\ejercicio ASP.NET\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Estudiante\Documents\Visual Studio 2013\Projects\ejercicio ASP.NET\ejercicio ASP.NET\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Estudiante\Documents\Visual Studio 2013\Projects\ejercicio ASP.NET\ejercicio ASP.NET\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Estudiante\Documents\Visual Studio 2013\Projects\ejercicio ASP.NET\ejercicio ASP.NET\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Estudiante\Documents\Visual Studio 2013\Projects\ejercicio ASP.NET\ejercicio ASP.NET\bin\es\EntityFramework.resources.dll
+C:\Users\Estudiante\Documents\Visual Studio 2013\Projects\ejercicio ASP.NET\ejercicio ASP.NET\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Estudiante\Documents\Visual Studio 2013\Projects\ejercicio ASP.NET\ejercicio ASP.NET\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Estudiante\Documents\Visual Studio 2013\Projects\ejercicio ASP.NET\ejercicio ASP.NET\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Estudiante\Documents\Visual Studio 2013\Projects\ejercicio ASP.NET\ejercicio ASP.NET\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Estudiante\Documents\Visual Studio 2013\Projects\ejercicio ASP.NET\ejercicio ASP.NET\bin\es\System.Web.Providers.resources.dll
+C:\Users\Estudiante\Documents\Visual Studio 2013\Projects\ejercicio ASP.NET\ejercicio ASP.NET\bin\es\Microsoft.Owin.resources.dll
+C:\Users\Estudiante\Documents\Visual Studio 2013\Projects\ejercicio ASP.NET\ejercicio ASP.NET\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Estudiante\Documents\Visual Studio 2013\Projects\ejercicio ASP.NET\ejercicio ASP.NET\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\Estudiante\Documents\Visual Studio 2013\Projects\ejercicio ASP.NET\ejercicio ASP.NET\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Estudiante\Documents\Visual Studio 2013\Projects\ejercicio ASP.NET\ejercicio ASP.NET\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Estudiante\Documents\Visual Studio 2013\Projects\ejercicio ASP.NET\ejercicio ASP.NET\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Estudiante\Documents\Visual Studio 2013\Projects\ejercicio ASP.NET\ejercicio ASP.NET\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Estudiante\Documents\Visual Studio 2013\Projects\ejercicio ASP.NET\ejercicio ASP.NET\obj\Debug\ejercicio ASP.NET.csprojResolveAssemblyReference.cache
+C:\Users\Estudiante\Documents\Visual Studio 2013\Projects\ejercicio ASP.NET\ejercicio ASP.NET\obj\Debug\ejercicio ASP.NET.dll
+C:\Users\Estudiante\Documents\Visual Studio 2013\Projects\ejercicio ASP.NET\ejercicio ASP.NET\obj\Debug\ejercicio ASP.NET.pdb
