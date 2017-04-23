@@ -1,0 +1,652 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Zoo
+</name>
+</assembly>
+<members>
+<member name="F:Zoo.VerifyPhoneNumber.ErrorMessage">
+	<summary>
+Control ErrorMessage.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Zoo.VerifyPhoneNumber.PhoneNumber">
+	<summary>
+Control PhoneNumber.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Zoo.VerifyPhoneNumber.Code">
+	<summary>
+Control Code.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Zoo.Confirm.successPanel">
+	<summary>
+Control successPanel.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Zoo.Confirm.login">
+	<summary>
+Control login.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Zoo.Confirm.errorPanel">
+	<summary>
+Control errorPanel.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Zoo.Site_Mobile.Head1">
+	<summary>
+Control Head1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Zoo.Site_Mobile.HeadContent">
+	<summary>
+Control HeadContent.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Zoo.Site_Mobile.form1">
+	<summary>
+control form1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Zoo.Site_Mobile.FeaturedContent">
+	<summary>
+Control FeaturedContent.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Zoo.Site_Mobile.MainContent">
+	<summary>
+Control MainContent.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Zoo.Site_Mobile.ViewSwitcher1">
+	<summary>
+Control ViewSwitcher1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Zoo.Register.ErrorMessage">
+	<summary>
+Control ErrorMessage.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Zoo.Register.Email">
+	<summary>
+Control de correo electrónico.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Zoo.Register.Password">
+	<summary>
+Control de contraseña.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Zoo.Register.ConfirmPassword">
+	<summary>
+Control confirmPassword.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Zoo.ResetPasswordConfirmation.login">
+	<summary>
+Control login.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Zoo.ForgotPassword.loginForm">
+	<summary>
+Control loginForm.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Zoo.ForgotPassword.ErrorMessage">
+	<summary>
+Control ErrorMessage.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Zoo.ForgotPassword.FailureText">
+	<summary>
+Control FailureText.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Zoo.ForgotPassword.Email">
+	<summary>
+Control Email.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Zoo.ForgotPassword.DisplayEmail">
+	<summary>
+Control DisplayEmail.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Zoo.ManageLogins.SuccessMessagePlaceholder">
+	<summary>
+Control SuccessMessagePlaceholder.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Zoo.SiteMaster.MainContent">
+	<summary>
+Control MainContent.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Zoo.image.form1">
+	<summary>
+Control form1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Zoo.image.ImageButton1">
+	<summary>
+Control ImageButton1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="P:Zoo.My.MyWebExtension.Computer">
+	<summary>
+ Devuelve información sobre el equipo host.
+ </summary>
+</member><member name="P:Zoo.My.MyWebExtension.User">
+	<summary>
+ Devuelve información del usuario web actual.
+ </summary>
+</member><member name="P:Zoo.My.MyWebExtension.Request">
+	<summary>
+ Devuelve un objeto Request.
+ </summary>
+</member><member name="P:Zoo.My.MyWebExtension.Response">
+	<summary>
+ Devuelve un objeto Response.
+ </summary>
+</member><member name="P:Zoo.My.MyWebExtension.Log">
+	<summary>
+ Devuelve el objeto de registro Asp.
+ </summary>
+</member><member name="T:Zoo.My.MyWebExtension">
+	<summary>
+ Módulo usado para definir las propiedades que están disponibles en el espacio de nombres My para proyectos web.
+ </summary>
+	<remarks></remarks>
+</member><member name="F:Zoo.ManagePassword.setPassword">
+	<summary>
+Control setPassword.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Zoo.ManagePassword.password">
+	<summary>
+Control password.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Zoo.ManagePassword.confirmPassword">
+	<summary>
+Control confirmPassword.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Zoo.ManagePassword.changePasswordHolder">
+	<summary>
+Control changePasswordHolder.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Zoo.ManagePassword.CurrentPasswordLabel">
+	<summary>
+Control CurrentPasswordLabel.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Zoo.ManagePassword.CurrentPassword">
+	<summary>
+Control CurrentPassword.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Zoo.ManagePassword.NewPasswordLabel">
+	<summary>
+Control NewPasswordLabel.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Zoo.ManagePassword.NewPassword">
+	<summary>
+Control NewPassword.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Zoo.ManagePassword.ConfirmNewPasswordLabel">
+	<summary>
+Control ConfirmNewPasswordLabel.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Zoo.ManagePassword.ConfirmNewPassword">
+	<summary>
+Control ConfirmNewPassword.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Zoo.OpenAuthProviders.providerDetails">
+	<summary>
+Control providerDetails.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Zoo.ResetPassword.ErrorMessage">
+	<summary>
+Control ErrorMessage.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Zoo.ResetPassword.Email">
+	<summary>
+Control de correo electrónico.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Zoo.ResetPassword.Password">
+	<summary>
+Control de contraseña.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Zoo.ResetPassword.ConfirmPassword">
+	<summary>
+Control confirmPassword.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Zoo.TwoFactorAuthenticationSignIn.sendcode">
+	<summary>
+Control sendcode.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Zoo.TwoFactorAuthenticationSignIn.Providers">
+	<summary>
+Control Providers.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Zoo.TwoFactorAuthenticationSignIn.ProviderSubmit">
+	<summary>
+Control ProviderSubmit.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Zoo.TwoFactorAuthenticationSignIn.verifycode">
+	<summary>
+Control verifycode.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Zoo.TwoFactorAuthenticationSignIn.SelectedProvider">
+	<summary>
+Control SelectedProvider.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Zoo.TwoFactorAuthenticationSignIn.ErrorMessage">
+	<summary>
+Control ErrorMessage.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Zoo.TwoFactorAuthenticationSignIn.FailureText">
+	<summary>
+Control FailureText.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Zoo.TwoFactorAuthenticationSignIn.Code">
+	<summary>
+Control Code.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Zoo.TwoFactorAuthenticationSignIn.RememberBrowser">
+	<summary>
+Control RememberBrowser.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Zoo.TwoFactorAuthenticationSignIn.CodeSubmit">
+	<summary>
+Control CodeSubmit.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Zoo.AddPhoneNumber.ErrorMessage">
+	<summary>
+Control ErrorMessage.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Zoo.AddPhoneNumber.PhoneNumber">
+	<summary>
+Control PhoneNumber.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Zoo.Mamiferos.form1">
+	<summary>
+Control form1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Zoo.Mamiferos.ImageButton1">
+	<summary>
+Control ImageButton1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Zoo.Mamiferos.ImageButton2">
+	<summary>
+Control ImageButton2.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Zoo.Mamiferos.ImageButton3">
+	<summary>
+Control ImageButton3.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Zoo.Mamiferos.ImageButton4">
+	<summary>
+Control ImageButton4.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Zoo.Mamiferos.ImageButton5">
+	<summary>
+Control ImageButton5.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Zoo.Mamiferos.ImageButton6">
+	<summary>
+Control ImageButton6.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Zoo._Default.Image1">
+	<summary>
+Control Image1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Zoo._Default.ImageButton1">
+	<summary>
+Control ImageButton1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Zoo._Default.ImageButton2">
+	<summary>
+Control ImageButton2.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Zoo._Default.ImageButton3">
+	<summary>
+Control ImageButton3.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Zoo._Default.ImageButton4">
+	<summary>
+Control ImageButton4.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Zoo.RegisterExternalLogin.email">
+	<summary>
+control de correo electrónico.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Zoo.Login.ErrorMessage">
+	<summary>
+Control ErrorMessage.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Zoo.Login.FailureText">
+	<summary>
+Control FailureText.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Zoo.Login.Email">
+	<summary>
+Control Email.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Zoo.Login.Password">
+	<summary>
+Control de contraseña.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Zoo.Login.RememberMe">
+	<summary>
+Control RememberMe.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Zoo.Login.RegisterHyperLink">
+	<summary>
+Control RegisterHyperLink.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Zoo.Login.OpenAuthLogin">
+	<summary>
+Control OpenAuthLogin.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Zoo.Manage.SuccessMessagePlaceHolder">
+	<summary>
+ Control SuccessMessagePlaceHolder.
+ </summary>
+	<remarks>
+ Campo generado automáticamente.
+ Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+ </remarks>
+</member><member name="F:Zoo.Manage.ChangePassword">
+	<summary>
+ Control ChangePassword.
+ </summary>
+	<remarks>
+ Campo generado automáticamente.
+ Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+ </remarks>
+</member><member name="F:Zoo.Manage.CreatePassword">
+	<summary>
+ Control CreatePassword.
+ </summary>
+	<remarks>
+ Campo generado automáticamente.
+ Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+ </remarks>
+</member><member name="F:Zoo.Manage.PhoneNumber">
+	<summary>
+ Control PhoneNumber.
+ </summary>
+	<remarks>
+ Campo generado automáticamente.
+ Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+ </remarks>
+</member>
+</members>
+</doc>
