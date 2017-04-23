@@ -354,7 +354,7 @@ a:focus {
 img {
   vertical-align: middle;
     margin-top: 2px;
-    margin-left: 32px;
+    margin-left: 0px;
 }
 
 .img-responsive {
@@ -2055,6 +2055,7 @@ fieldset[disabled] .btn {
   color: #333333;
   background-color: #ffffff;
   border-color: #cccccc;
+    height: 19px;
 }
 
 .btn-default:hover,

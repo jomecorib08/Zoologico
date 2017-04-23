@@ -186,14 +186,19 @@
     <Content Include="Account\ResetPasswordConfirmation.aspx" />
     <Content Include="Account\TwoFactorAuthenticationSignIn.aspx" />
     <Content Include="Account\VerifyPhoneNumber.aspx" />
+    <Content Include="Acuaticos.aspx" />
+    <Content Include="Aves.aspx" />
     <Content Include="Contact.aspx" />
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="Content\Site.css" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="Horarios_Tarifas.aspx" />
     <Content Include="image.aspx" />
     <Content Include="image\Aguila.jpg" />
     <Content Include="image\antilope.jpg" />
+    <Content Include="image\banner.jpg" />
+    <Content Include="image\banner1.jpg" />
     <Content Include="image\cebra.jpg" />
     <Content Include="image\Delfin.jpg" />
     <Content Include="image\Koala.jpg" />
@@ -238,7 +243,7 @@
     <Content Include="Scripts\WebForms\WebParts.js" />
     <Content Include="Scripts\WebForms\WebUIValidation.js" />
     <Content Include="Scripts\_references.js" />
-    <Content Include="Default.aspx" />
+    <Content Include="Zoologico.aspx" />
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
     <Content Include="Web.config" />
@@ -358,6 +363,13 @@
       <DependentUpon>VerifyPhoneNumber.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
+    <Compile Include="Acuaticos.aspx.designer.vb">
+      <DependentUpon>Acuaticos.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Acuaticos.aspx.vb">
+      <DependentUpon>Acuaticos.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
     <Compile Include="App_Start\BundleConfig.vb" />
     <Compile Include="App_Start\IdentityConfig.vb" />
     <Compile Include="App_Start\RouteConfig.vb" />
@@ -369,6 +381,13 @@
       <SubType>ASPXCodebehind</SubType>
     </Compile>
     <Compile Include="App_Start\Startup.Auth.vb" />
+    <Compile Include="Aves.aspx.designer.vb">
+      <DependentUpon>Aves.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Aves.aspx.vb">
+      <DependentUpon>Aves.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
     <Compile Include="Contact.aspx.designer.vb">
       <DependentUpon>Contact.aspx</DependentUpon>
     </Compile>
@@ -376,12 +395,19 @@
       <DependentUpon>Contact.aspx</DependentUpon>
       <SubType>ASPXCodebehind</SubType>
     </Compile>
-    <Compile Include="Default.aspx.vb">
-      <SubType>ASPXCodeBehind</SubType>
-      <DependentUpon>Default.aspx</DependentUpon>
+    <Compile Include="Horarios_Tarifas.aspx.designer.vb">
+      <DependentUpon>Horarios_Tarifas.aspx</DependentUpon>
     </Compile>
-    <Compile Include="Default.aspx.designer.vb">
-      <DependentUpon>Default.aspx</DependentUpon>
+    <Compile Include="Horarios_Tarifas.aspx.vb">
+      <DependentUpon>Horarios_Tarifas.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="Zoologico.aspx.vb">
+      <SubType>ASPXCodeBehind</SubType>
+      <DependentUpon>Zoologico.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Zoologico.aspx.designer.vb">
+      <DependentUpon>Zoologico.aspx</DependentUpon>
     </Compile>
     <Compile Include="Global.asax.vb">
       <DependentUpon>Global.asax</DependentUpon>

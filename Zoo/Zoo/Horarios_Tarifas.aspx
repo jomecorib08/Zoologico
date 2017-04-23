@@ -11,6 +11,19 @@
     <form id="form1" runat="server">
     <div style="height: 2782px; width: 620px; margin-right: 0px;">
     
+ <%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Horarios_Tarifas.aspx.cs" Inherits="zoologico.Horarios_Tarifas" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+</head>
+<body>
+    <form id="form2" runat="server">
+    <div style="height: 2782px; width: 620px; margin-right: 0px;">
+    
       
        
  <H1>Horarios</H1>
@@ -157,6 +170,11 @@ PBX. 444 77 87 Opción 2. Ext. 2111
                     </TR>
 
             </TABLE>
+            </div>
+    </form>
+</body>
+</html>
+
             </div>
     </form>
 </body>
