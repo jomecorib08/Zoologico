@@ -9,9 +9,23 @@
 </head>
 <body style="height: 339px">
     <form id="form1" runat="server">
-        <p>
-            <asp:Image ID="Image1" runat="server" />
-        </p>
+        <asp:ImageButton ID="ImageButton1" runat="server" Height="152px" ImageUrl="~/img/caiman.jpg" Width="192px" />
+&nbsp;&nbsp;
+        <asp:ImageButton ID="ImageButton2" runat="server" Height="152px" ImageUrl="~/img/ganzocisne.jpg" Width="192px" />
+&nbsp;&nbsp;
+        <asp:ImageButton ID="ImageButton3" runat="server" Height="152px" ImageUrl="~/img/Nutria.jpg" Width="192px" />
+&nbsp;&nbsp;
+        <asp:ImageButton ID="ImageButton4" runat="server" Height="152px" ImageUrl="~/img/tortuga-mordedora.jpg" Width="192px" />
+        <br />
+        <br />
+        <br />
+        <br />
+        <asp:ImageButton ID="ImageButton5" runat="server" Height="152px" ImageUrl="~/img/caiman_aguja.jpg" Width="192px" />
+&nbsp;&nbsp;
+        <asp:ImageButton ID="ImageButton6" runat="server" Height="152px" ImageUrl="~/img/Delfin.jpg" Width="192px" />
+&nbsp;&nbsp;
+        <asp:ImageButton ID="ImageButton7" runat="server" Height="152px" ImageUrl="~/img/hipopotamo.jpg" Width="192px" />
+&nbsp;&nbsp;
     </form>
     </body>
 </html>

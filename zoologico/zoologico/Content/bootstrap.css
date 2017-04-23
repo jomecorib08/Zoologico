@@ -353,6 +353,7 @@ a:focus {
 
 img {
   vertical-align: middle;
+    margin-top: 0px;
 }
 
 .img-responsive {
@@ -517,7 +518,7 @@ h1,
 h2,
 .h2 {
   font-size: 30px;
-    height: 80px;
+    height: 46px;
 }
 
 h3,
@@ -861,9 +862,9 @@ pre code {
   min-height: 1px;
   padding-right: 15px;
   padding-left: 15px;
-    top: -132px;
-    left: 0px;
-    height: 256px;
+    top: 2px;
+    left: -1px;
+    height: 765px;
 }
 
 .col-xs-1,
@@ -2056,6 +2057,7 @@ fieldset[disabled] .btn {
   color: #333333;
   background-color: #ffffff;
   border-color: #cccccc;
+    height: 22px;
 }
 
 .btn-default:hover,
