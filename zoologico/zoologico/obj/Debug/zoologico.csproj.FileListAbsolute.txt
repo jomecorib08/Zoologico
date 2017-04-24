@@ -1,0 +1,198 @@
+C:\Users\Diego\Documents\JOHANA CORDOBA\Informatica avanzada\zoologico\zoologico\bin\zoologico.dll.config
+C:\Users\Diego\Documents\JOHANA CORDOBA\Informatica avanzada\zoologico\zoologico\bin\zoologico.dll
+C:\Users\Diego\Documents\JOHANA CORDOBA\Informatica avanzada\zoologico\zoologico\bin\zoologico.pdb
+C:\Users\Diego\Documents\JOHANA CORDOBA\Informatica avanzada\zoologico\zoologico\bin\Antlr3.Runtime.dll
+C:\Users\Diego\Documents\JOHANA CORDOBA\Informatica avanzada\zoologico\zoologico\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Diego\Documents\JOHANA CORDOBA\Informatica avanzada\zoologico\zoologico\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Diego\Documents\JOHANA CORDOBA\Informatica avanzada\zoologico\zoologico\bin\EntityFramework.dll
+C:\Users\Diego\Documents\JOHANA CORDOBA\Informatica avanzada\zoologico\zoologico\bin\EntityFramework.SqlServer.dll
+C:\Users\Diego\Documents\JOHANA CORDOBA\Informatica avanzada\zoologico\zoologico\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Diego\Documents\JOHANA CORDOBA\Informatica avanzada\zoologico\zoologico\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Diego\Documents\JOHANA CORDOBA\Informatica avanzada\zoologico\zoologico\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Diego\Documents\JOHANA CORDOBA\Informatica avanzada\zoologico\zoologico\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Diego\Documents\JOHANA CORDOBA\Informatica avanzada\zoologico\zoologico\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Diego\Documents\JOHANA CORDOBA\Informatica avanzada\zoologico\zoologico\bin\Microsoft.Owin.dll
+C:\Users\Diego\Documents\JOHANA CORDOBA\Informatica avanzada\zoologico\zoologico\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Diego\Documents\JOHANA CORDOBA\Informatica avanzada\zoologico\zoologico\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Diego\Documents\JOHANA CORDOBA\Informatica avanzada\zoologico\zoologico\bin\Microsoft.Owin.Security.dll
+C:\Users\Diego\Documents\JOHANA CORDOBA\Informatica avanzada\zoologico\zoologico\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Diego\Documents\JOHANA CORDOBA\Informatica avanzada\zoologico\zoologico\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Diego\Documents\JOHANA CORDOBA\Informatica avanzada\zoologico\zoologico\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Diego\Documents\JOHANA CORDOBA\Informatica avanzada\zoologico\zoologico\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Diego\Documents\JOHANA CORDOBA\Informatica avanzada\zoologico\zoologico\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Diego\Documents\JOHANA CORDOBA\Informatica avanzada\zoologico\zoologico\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Diego\Documents\JOHANA CORDOBA\Informatica avanzada\zoologico\zoologico\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Diego\Documents\JOHANA CORDOBA\Informatica avanzada\zoologico\zoologico\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Diego\Documents\JOHANA CORDOBA\Informatica avanzada\zoologico\zoologico\bin\Newtonsoft.Json.dll
+C:\Users\Diego\Documents\JOHANA CORDOBA\Informatica avanzada\zoologico\zoologico\bin\Owin.dll
+C:\Users\Diego\Documents\JOHANA CORDOBA\Informatica avanzada\zoologico\zoologico\bin\System.Web.Optimization.dll
+C:\Users\Diego\Documents\JOHANA CORDOBA\Informatica avanzada\zoologico\zoologico\bin\System.Web.Providers.dll
+C:\Users\Diego\Documents\JOHANA CORDOBA\Informatica avanzada\zoologico\zoologico\bin\WebGrease.dll
+C:\Users\Diego\Documents\JOHANA CORDOBA\Informatica avanzada\zoologico\zoologico\bin\System.Web.Optimization.xml
+C:\Users\Diego\Documents\JOHANA CORDOBA\Informatica avanzada\zoologico\zoologico\bin\Antlr3.Runtime.pdb
+C:\Users\Diego\Documents\JOHANA CORDOBA\Informatica avanzada\zoologico\zoologico\bin\Newtonsoft.Json.xml
+C:\Users\Diego\Documents\JOHANA CORDOBA\Informatica avanzada\zoologico\zoologico\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Diego\Documents\JOHANA CORDOBA\Informatica avanzada\zoologico\zoologico\bin\EntityFramework.xml
+C:\Users\Diego\Documents\JOHANA CORDOBA\Informatica avanzada\zoologico\zoologico\bin\EntityFramework.SqlServer.xml
+C:\Users\Diego\Documents\JOHANA CORDOBA\Informatica avanzada\zoologico\zoologico\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Diego\Documents\JOHANA CORDOBA\Informatica avanzada\zoologico\zoologico\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Diego\Documents\JOHANA CORDOBA\Informatica avanzada\zoologico\zoologico\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Diego\Documents\JOHANA CORDOBA\Informatica avanzada\zoologico\zoologico\bin\System.Web.Providers.xml
+C:\Users\Diego\Documents\JOHANA CORDOBA\Informatica avanzada\zoologico\zoologico\bin\Microsoft.Owin.xml
+C:\Users\Diego\Documents\JOHANA CORDOBA\Informatica avanzada\zoologico\zoologico\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Diego\Documents\JOHANA CORDOBA\Informatica avanzada\zoologico\zoologico\bin\Microsoft.Owin.Security.xml
+C:\Users\Diego\Documents\JOHANA CORDOBA\Informatica avanzada\zoologico\zoologico\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Diego\Documents\JOHANA CORDOBA\Informatica avanzada\zoologico\zoologico\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Diego\Documents\JOHANA CORDOBA\Informatica avanzada\zoologico\zoologico\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Diego\Documents\JOHANA CORDOBA\Informatica avanzada\zoologico\zoologico\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Diego\Documents\JOHANA CORDOBA\Informatica avanzada\zoologico\zoologico\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Diego\Documents\JOHANA CORDOBA\Informatica avanzada\zoologico\zoologico\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Diego\Documents\JOHANA CORDOBA\Informatica avanzada\zoologico\zoologico\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Diego\Documents\JOHANA CORDOBA\Informatica avanzada\zoologico\zoologico\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Diego\Documents\JOHANA CORDOBA\Informatica avanzada\zoologico\zoologico\bin\es\EntityFramework.resources.dll
+C:\Users\Diego\Documents\JOHANA CORDOBA\Informatica avanzada\zoologico\zoologico\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Diego\Documents\JOHANA CORDOBA\Informatica avanzada\zoologico\zoologico\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Diego\Documents\JOHANA CORDOBA\Informatica avanzada\zoologico\zoologico\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Diego\Documents\JOHANA CORDOBA\Informatica avanzada\zoologico\zoologico\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Diego\Documents\JOHANA CORDOBA\Informatica avanzada\zoologico\zoologico\bin\es\Microsoft.Owin.resources.dll
+C:\Users\Diego\Documents\JOHANA CORDOBA\Informatica avanzada\zoologico\zoologico\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Diego\Documents\JOHANA CORDOBA\Informatica avanzada\zoologico\zoologico\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\Diego\Documents\JOHANA CORDOBA\Informatica avanzada\zoologico\zoologico\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Diego\Documents\JOHANA CORDOBA\Informatica avanzada\zoologico\zoologico\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Diego\Documents\JOHANA CORDOBA\Informatica avanzada\zoologico\zoologico\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Diego\Documents\JOHANA CORDOBA\Informatica avanzada\zoologico\zoologico\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Diego\Documents\JOHANA CORDOBA\Informatica avanzada\zoologico\zoologico\obj\Debug\zoologico.csprojResolveAssemblyReference.cache
+C:\Users\Diego\Documents\JOHANA CORDOBA\Informatica avanzada\zoologico\zoologico\obj\Debug\zoologico.dll
+C:\Users\Diego\Documents\JOHANA CORDOBA\Informatica avanzada\zoologico\zoologico\obj\Debug\zoologico.pdb
+E:\Desktop\Zool\Zoologico\zoologico\zoologico\bin\zoologico.dll.config
+E:\Desktop\Zool\Zoologico\zoologico\zoologico\bin\zoologico.dll
+E:\Desktop\Zool\Zoologico\zoologico\zoologico\bin\zoologico.pdb
+E:\Desktop\Zool\Zoologico\zoologico\zoologico\bin\Antlr3.Runtime.dll
+E:\Desktop\Zool\Zoologico\zoologico\zoologico\bin\AspNet.ScriptManager.bootstrap.dll
+E:\Desktop\Zool\Zoologico\zoologico\zoologico\bin\AspNet.ScriptManager.jQuery.dll
+E:\Desktop\Zool\Zoologico\zoologico\zoologico\bin\EntityFramework.dll
+E:\Desktop\Zool\Zoologico\zoologico\zoologico\bin\EntityFramework.SqlServer.dll
+E:\Desktop\Zool\Zoologico\zoologico\zoologico\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\Desktop\Zool\Zoologico\zoologico\zoologico\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Desktop\Zool\Zoologico\zoologico\zoologico\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Desktop\Zool\Zoologico\zoologico\zoologico\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Desktop\Zool\Zoologico\zoologico\zoologico\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\Desktop\Zool\Zoologico\zoologico\zoologico\bin\Microsoft.Owin.dll
+E:\Desktop\Zool\Zoologico\zoologico\zoologico\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Desktop\Zool\Zoologico\zoologico\zoologico\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Desktop\Zool\Zoologico\zoologico\zoologico\bin\Microsoft.Owin.Security.dll
+E:\Desktop\Zool\Zoologico\zoologico\zoologico\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Desktop\Zool\Zoologico\zoologico\zoologico\bin\Microsoft.Owin.Security.Google.dll
+E:\Desktop\Zool\Zoologico\zoologico\zoologico\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Desktop\Zool\Zoologico\zoologico\zoologico\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Desktop\Zool\Zoologico\zoologico\zoologico\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Desktop\Zool\Zoologico\zoologico\zoologico\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\Desktop\Zool\Zoologico\zoologico\zoologico\bin\Microsoft.ScriptManager.WebForms.dll
+E:\Desktop\Zool\Zoologico\zoologico\zoologico\bin\Microsoft.Web.Infrastructure.dll
+E:\Desktop\Zool\Zoologico\zoologico\zoologico\bin\Newtonsoft.Json.dll
+E:\Desktop\Zool\Zoologico\zoologico\zoologico\bin\Owin.dll
+E:\Desktop\Zool\Zoologico\zoologico\zoologico\bin\System.Web.Optimization.dll
+E:\Desktop\Zool\Zoologico\zoologico\zoologico\bin\System.Web.Providers.dll
+E:\Desktop\Zool\Zoologico\zoologico\zoologico\bin\WebGrease.dll
+E:\Desktop\Zool\Zoologico\zoologico\zoologico\bin\System.Web.Optimization.xml
+E:\Desktop\Zool\Zoologico\zoologico\zoologico\bin\Antlr3.Runtime.pdb
+E:\Desktop\Zool\Zoologico\zoologico\zoologico\bin\Newtonsoft.Json.xml
+E:\Desktop\Zool\Zoologico\zoologico\zoologico\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\Desktop\Zool\Zoologico\zoologico\zoologico\bin\EntityFramework.xml
+E:\Desktop\Zool\Zoologico\zoologico\zoologico\bin\EntityFramework.SqlServer.xml
+E:\Desktop\Zool\Zoologico\zoologico\zoologico\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Desktop\Zool\Zoologico\zoologico\zoologico\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Desktop\Zool\Zoologico\zoologico\zoologico\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Desktop\Zool\Zoologico\zoologico\zoologico\bin\System.Web.Providers.xml
+E:\Desktop\Zool\Zoologico\zoologico\zoologico\bin\Microsoft.Owin.xml
+E:\Desktop\Zool\Zoologico\zoologico\zoologico\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Desktop\Zool\Zoologico\zoologico\zoologico\bin\Microsoft.Owin.Security.xml
+E:\Desktop\Zool\Zoologico\zoologico\zoologico\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Desktop\Zool\Zoologico\zoologico\zoologico\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Desktop\Zool\Zoologico\zoologico\zoologico\bin\Microsoft.Owin.Security.Google.xml
+E:\Desktop\Zool\Zoologico\zoologico\zoologico\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Desktop\Zool\Zoologico\zoologico\zoologico\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Desktop\Zool\Zoologico\zoologico\zoologico\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Desktop\Zool\Zoologico\zoologico\zoologico\bin\es\System.Web.Optimization.resources.dll
+E:\Desktop\Zool\Zoologico\zoologico\zoologico\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+E:\Desktop\Zool\Zoologico\zoologico\zoologico\bin\es\EntityFramework.resources.dll
+E:\Desktop\Zool\Zoologico\zoologico\zoologico\bin\es\EntityFramework.SqlServer.resources.dll
+E:\Desktop\Zool\Zoologico\zoologico\zoologico\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+E:\Desktop\Zool\Zoologico\zoologico\zoologico\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+E:\Desktop\Zool\Zoologico\zoologico\zoologico\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+E:\Desktop\Zool\Zoologico\zoologico\zoologico\bin\es\Microsoft.Owin.resources.dll
+E:\Desktop\Zool\Zoologico\zoologico\zoologico\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+E:\Desktop\Zool\Zoologico\zoologico\zoologico\bin\es\Microsoft.Owin.Security.resources.dll
+E:\Desktop\Zool\Zoologico\zoologico\zoologico\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+E:\Desktop\Zool\Zoologico\zoologico\zoologico\bin\es\Microsoft.Owin.Security.Google.resources.dll
+E:\Desktop\Zool\Zoologico\zoologico\zoologico\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+E:\Desktop\Zool\Zoologico\zoologico\zoologico\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+E:\Desktop\Zool\Zoologico\zoologico\zoologico\obj\Debug\zoologico.csprojResolveAssemblyReference.cache
+E:\Desktop\Zool\Zoologico\zoologico\zoologico\obj\Debug\zoologico.dll
+E:\Desktop\Zool\Zoologico\zoologico\zoologico\obj\Debug\zoologico.pdb
+F:\Zoologico\zoologico\bin\zoologico.dll.config
+F:\Zoologico\zoologico\bin\zoologico.dll
+F:\Zoologico\zoologico\bin\zoologico.pdb
+F:\Zoologico\zoologico\bin\Antlr3.Runtime.dll
+F:\Zoologico\zoologico\bin\AspNet.ScriptManager.bootstrap.dll
+F:\Zoologico\zoologico\bin\AspNet.ScriptManager.jQuery.dll
+F:\Zoologico\zoologico\bin\EntityFramework.dll
+F:\Zoologico\zoologico\bin\EntityFramework.SqlServer.dll
+F:\Zoologico\zoologico\bin\Microsoft.AspNet.FriendlyUrls.dll
+F:\Zoologico\zoologico\bin\Microsoft.AspNet.Identity.Core.dll
+F:\Zoologico\zoologico\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Zoologico\zoologico\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\Zoologico\zoologico\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+F:\Zoologico\zoologico\bin\Microsoft.Owin.dll
+F:\Zoologico\zoologico\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\Zoologico\zoologico\bin\Microsoft.Owin.Security.Cookies.dll
+F:\Zoologico\zoologico\bin\Microsoft.Owin.Security.dll
+F:\Zoologico\zoologico\bin\Microsoft.Owin.Security.Facebook.dll
+F:\Zoologico\zoologico\bin\Microsoft.Owin.Security.Google.dll
+F:\Zoologico\zoologico\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\Zoologico\zoologico\bin\Microsoft.Owin.Security.OAuth.dll
+F:\Zoologico\zoologico\bin\Microsoft.Owin.Security.Twitter.dll
+F:\Zoologico\zoologico\bin\Microsoft.ScriptManager.MSAjax.dll
+F:\Zoologico\zoologico\bin\Microsoft.ScriptManager.WebForms.dll
+F:\Zoologico\zoologico\bin\Microsoft.Web.Infrastructure.dll
+F:\Zoologico\zoologico\bin\Newtonsoft.Json.dll
+F:\Zoologico\zoologico\bin\Owin.dll
+F:\Zoologico\zoologico\bin\System.Web.Optimization.dll
+F:\Zoologico\zoologico\bin\System.Web.Providers.dll
+F:\Zoologico\zoologico\bin\WebGrease.dll
+F:\Zoologico\zoologico\bin\System.Web.Optimization.xml
+F:\Zoologico\zoologico\bin\Antlr3.Runtime.pdb
+F:\Zoologico\zoologico\bin\Newtonsoft.Json.xml
+F:\Zoologico\zoologico\bin\Microsoft.AspNet.FriendlyUrls.xml
+F:\Zoologico\zoologico\bin\EntityFramework.xml
+F:\Zoologico\zoologico\bin\EntityFramework.SqlServer.xml
+F:\Zoologico\zoologico\bin\Microsoft.AspNet.Identity.Core.xml
+F:\Zoologico\zoologico\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\Zoologico\zoologico\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\Zoologico\zoologico\bin\System.Web.Providers.xml
+F:\Zoologico\zoologico\bin\Microsoft.Owin.xml
+F:\Zoologico\zoologico\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\Zoologico\zoologico\bin\Microsoft.Owin.Security.xml
+F:\Zoologico\zoologico\bin\Microsoft.Owin.Security.Facebook.xml
+F:\Zoologico\zoologico\bin\Microsoft.Owin.Security.Cookies.xml
+F:\Zoologico\zoologico\bin\Microsoft.Owin.Security.Google.xml
+F:\Zoologico\zoologico\bin\Microsoft.Owin.Security.Twitter.xml
+F:\Zoologico\zoologico\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\Zoologico\zoologico\bin\Microsoft.Owin.Security.OAuth.xml
+F:\Zoologico\zoologico\bin\es\System.Web.Optimization.resources.dll
+F:\Zoologico\zoologico\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+F:\Zoologico\zoologico\bin\es\EntityFramework.resources.dll
+F:\Zoologico\zoologico\bin\es\EntityFramework.SqlServer.resources.dll
+F:\Zoologico\zoologico\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+F:\Zoologico\zoologico\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+F:\Zoologico\zoologico\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+F:\Zoologico\zoologico\bin\es\Microsoft.Owin.resources.dll
+F:\Zoologico\zoologico\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+F:\Zoologico\zoologico\bin\es\Microsoft.Owin.Security.resources.dll
+F:\Zoologico\zoologico\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+F:\Zoologico\zoologico\bin\es\Microsoft.Owin.Security.Google.resources.dll
+F:\Zoologico\zoologico\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+F:\Zoologico\zoologico\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+F:\Zoologico\zoologico\obj\Debug\zoologico.csprojResolveAssemblyReference.cache
+F:\Zoologico\zoologico\obj\Debug\zoologico.dll
+F:\Zoologico\zoologico\obj\Debug\zoologico.pdb
