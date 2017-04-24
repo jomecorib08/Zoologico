@@ -7,11 +7,5 @@ using System.Web.UI.WebControls;
 
 namespace zoologico
 {
-    public partial class Aves : System.Web.UI.Page
-    {
-        protected void Page_Load(object sender, EventArgs e)
-        {
-
-        }
-    }
+   
 }

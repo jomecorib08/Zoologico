@@ -26,7 +26,7 @@
             puede llegar a pesar hasta 160 toneladas. En cuanto a tamaño, el más pequeño es el<span class="Apple-converted-space">&nbsp;</span><strong style="margin: 0px; padding: 0px; border: 0px;">murciélago nariz de cerdo</strong><span class="Apple-converted-space">&nbsp;</span>tailandés&nbsp;<em style="margin: 0px; padding: 0px; border: 0px;">Craseonycteris thonglongyai</em><span class="Apple-converted-space">&nbsp;</span>que mide entre 29 y 33 milímetros versus el más grande que es de nuevo la<span class="Apple-converted-space">&nbsp;</span><strong style="margin: 0px; padding: 0px; border: 0px;">ballena azul</strong><span class="Apple-converted-space">&nbsp;</span><em style="margin: 0px; padding: 0px; border: 0px;">Balaenoptera musculus</em><span class="Apple-converted-space">&nbsp;</span>que alcanza hasta los 30 metros de longitud.</p>
         <p style="width: 237px">
             &nbsp;&nbsp; </p>
-        <asp:ImageButton ID="ImageButton1" runat="server" Height="145px" ImageUrl="~/img/antilope.jpg" Width="189px" PostBackUrl="~/Antilope.aspx" />
+        <asp:ImageButton ID="ImageButton1" runat="server" Height="145px" ImageUrl="~/img/antilope.jpg" Width="189px" PostBackUrl="~/Mamiferos/Antilope.aspx" />
 &nbsp;&nbsp;
         <asp:ImageButton ID="ImageButton2" runat="server" Height="145px" ImageUrl="~/img/cebra.jpg" Width="189px" PostBackUrl="~/Cebra.aspx" />
 &nbsp;&nbsp;

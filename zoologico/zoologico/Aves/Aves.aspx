@@ -23,13 +23,13 @@
         las de reptiles con peso y temperatura similares), corazones grandes y alta presión circulatoria, sistema respiratorio altamente eficiente, visión aguda y excelente coordinación neuromuscular .<span class="Apple-converted-space">&nbsp;</span></p>
         <p style="font-size: 14px; color: rgb(0, 0, 0); font-family: Tahoma; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; border-style: none; border-color: inherit; border-width: 0px; margin: 15px 0px; padding: 0px">
             &nbsp;</p>
-        <asp:ImageButton ID="ImageButton2" runat="server" Height="149px" ImageUrl="~/img/buho.jpg" Width="186px" />
+        <asp:ImageButton ID="ImageButton2" runat="server" Height="149px" ImageUrl="~/img/buho.jpg" Width="186px" PostBackUrl="~/Aves/Buho.aspx" />
 &nbsp;&nbsp;
-        <asp:ImageButton ID="ImageButton3" runat="server" Height="149px" ImageUrl="~/img/barranquero.jpg" Width="186px" />
+        <asp:ImageButton ID="ImageButton3" runat="server" Height="149px" ImageUrl="~/img/barranquero.jpg" Width="186px" PostBackUrl="~/Aves/Barranquero.aspx" />
 &nbsp;&nbsp;
-        <asp:ImageButton ID="ImageButton4" runat="server" Height="149px" ImageUrl="~/img/Aguila.jpg" Width="186px" />
+        <asp:ImageButton ID="ImageButton4" runat="server" Height="149px" ImageUrl="~/img/Aguila.jpg" Width="186px" PostBackUrl="~/Aves/Aguila.aspx" />
 &nbsp;&nbsp;
-        <asp:ImageButton ID="ImageButton5" runat="server" Height="149px" ImageUrl="~/img/pechiblanco.jpg" Width="186px" />
+        <asp:ImageButton ID="ImageButton5" runat="server" Height="149px" ImageUrl="~/img/pechiblanco.jpg" Width="186px" PostBackUrl="~/Aves/Pechiblanco.aspx" />
         <br />
         <br />
         <br />

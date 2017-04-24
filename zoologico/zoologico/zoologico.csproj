@@ -162,9 +162,18 @@
     <Content Include="Account\TwoFactorAuthenticationSignIn.aspx" />
     <Content Include="Account\VerifyPhoneNumber.aspx" />
     <Content Include="Acuaticos\Acuaticos.aspx" />
-    <Content Include="Antilope.aspx" />
+    <Content Include="Acuaticos\CaimanAguja.aspx" />
+    <Content Include="Acuaticos\GanzoCisne.aspx" />
+    <Content Include="Acuaticos\Hipopotamo.aspx" />
+    <Content Include="Acuaticos\Nutria.aspx" />
+    <Content Include="Acuaticos\ToortugaMordedora.aspx" />
+    <Content Include="Aves\Aguila.aspx" />
+    <Content Include="Aves\Barranquero.aspx" />
+    <Content Include="Aves\Buho.aspx" />
+    <Content Include="Aves\Pechiblanco.aspx" />
+    <Content Include="Mamiferos\Antilope.aspx" />
     <Content Include="Aves\Aves.aspx" />
-    <Content Include="Cebra.aspx" />
+    <Content Include="Mamiferos\Cebra.aspx" />
     <Content Include="Contact.aspx" />
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
@@ -205,9 +214,9 @@
     <Content Include="img\pechiblanco.jpg" />
     <Content Include="img\rino.jpg" />
     <Content Include="img\tortuga-mordedora.jpg" />
-    <Content Include="Koala.aspx" />
-    <Content Include="Leon.aspx" />
-    <Content Include="Oso.aspx" />
+    <Content Include="Mamiferos\Koala.aspx" />
+    <Content Include="Mamiferos\Leon.aspx" />
+    <Content Include="Mamiferos\Oso.aspx" />
     <Content Include="packages.config" />
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
     <Content Include="fonts\glyphicons-halflings-regular.ttf" />
@@ -216,7 +225,7 @@
     <Content Include="Mamiferos\MamiferosTerrestre.aspx" />
     <Content Include="img\Thumbs.db" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
-    <Content Include="Rino.aspx" />
+    <Content Include="Mamiferos\Rino.aspx" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
@@ -376,11 +385,74 @@
     <Compile Include="Acuaticos\Acuaticos.aspx.designer.cs">
       <DependentUpon>Acuaticos.aspx</DependentUpon>
     </Compile>
-    <Compile Include="Antilope.aspx.cs">
+    <Compile Include="Acuaticos\CaimanAguja.aspx.cs">
+      <DependentUpon>CaimanAguja.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Acuaticos\CaimanAguja.aspx.designer.cs">
+      <DependentUpon>CaimanAguja.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Acuaticos\GanzoCisne.aspx.cs">
+      <DependentUpon>GanzoCisne.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Acuaticos\GanzoCisne.aspx.designer.cs">
+      <DependentUpon>GanzoCisne.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Acuaticos\Hipopotamo.aspx.cs">
+      <DependentUpon>Hipopotamo.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Acuaticos\Hipopotamo.aspx.designer.cs">
+      <DependentUpon>Hipopotamo.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Acuaticos\Nutria.aspx.cs">
+      <DependentUpon>Nutria.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Acuaticos\Nutria.aspx.designer.cs">
+      <DependentUpon>Nutria.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Acuaticos\ToortugaMordedora.aspx.cs">
+      <DependentUpon>ToortugaMordedora.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Acuaticos\ToortugaMordedora.aspx.designer.cs">
+      <DependentUpon>ToortugaMordedora.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Aves\Aguila.aspx.cs">
+      <DependentUpon>Aguila.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Aves\Aguila.aspx.designer.cs">
+      <DependentUpon>Aguila.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Aves\Barranquero.aspx.cs">
+      <DependentUpon>Barranquero.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Aves\Barranquero.aspx.designer.cs">
+      <DependentUpon>Barranquero.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Aves\Buho.aspx.cs">
+      <DependentUpon>Buho.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Aves\Buho.aspx.designer.cs">
+      <DependentUpon>Buho.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Aves\Pechiblanco.aspx.cs">
+      <DependentUpon>Pechiblanco.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Aves\Pechiblanco.aspx.designer.cs">
+      <DependentUpon>Pechiblanco.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Mamiferos\Antilope.aspx.cs">
       <DependentUpon>Antilope.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="Antilope.aspx.designer.cs">
+    <Compile Include="Mamiferos\Antilope.aspx.designer.cs">
       <DependentUpon>Antilope.aspx</DependentUpon>
     </Compile>
     <Compile Include="App_Start\BundleConfig.cs" />
@@ -401,11 +473,11 @@
     <Compile Include="Aves\Aves.aspx.designer.cs">
       <DependentUpon>Aves.aspx</DependentUpon>
     </Compile>
-    <Compile Include="Cebra.aspx.cs">
+    <Compile Include="Mamiferos\Cebra.aspx.cs">
       <DependentUpon>Cebra.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="Cebra.aspx.designer.cs">
+    <Compile Include="Mamiferos\Cebra.aspx.designer.cs">
       <DependentUpon>Cebra.aspx</DependentUpon>
     </Compile>
     <Compile Include="Contact.aspx.cs">
@@ -429,32 +501,32 @@
     <Compile Include="Horarios_Tarifas.aspx.designer.cs">
       <DependentUpon>Horarios_Tarifas.aspx</DependentUpon>
     </Compile>
-    <Compile Include="Koala.aspx.cs">
+    <Compile Include="Mamiferos\Koala.aspx.cs">
       <DependentUpon>Koala.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="Koala.aspx.designer.cs">
+    <Compile Include="Mamiferos\Koala.aspx.designer.cs">
       <DependentUpon>Koala.aspx</DependentUpon>
     </Compile>
-    <Compile Include="Leon.aspx.cs">
+    <Compile Include="Mamiferos\Leon.aspx.cs">
       <DependentUpon>Leon.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="Leon.aspx.designer.cs">
+    <Compile Include="Mamiferos\Leon.aspx.designer.cs">
       <DependentUpon>Leon.aspx</DependentUpon>
     </Compile>
-    <Compile Include="Oso.aspx.cs">
+    <Compile Include="Mamiferos\Oso.aspx.cs">
       <DependentUpon>Oso.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="Oso.aspx.designer.cs">
+    <Compile Include="Mamiferos\Oso.aspx.designer.cs">
       <DependentUpon>Oso.aspx</DependentUpon>
     </Compile>
-    <Compile Include="Rino.aspx.cs">
+    <Compile Include="Mamiferos\Rino.aspx.cs">
       <DependentUpon>Rino.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="Rino.aspx.designer.cs">
+    <Compile Include="Mamiferos\Rino.aspx.designer.cs">
       <DependentUpon>Rino.aspx</DependentUpon>
     </Compile>
     <Compile Include="zoologico.aspx.cs">
