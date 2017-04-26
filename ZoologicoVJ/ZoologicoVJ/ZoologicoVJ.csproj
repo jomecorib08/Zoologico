@@ -180,6 +180,10 @@
     <Content Include="img\cebra.jpg" />
     <Content Include="img\Delfin.jpg" />
     <Content Include="img\ganzocisne.jpg" />
+    <Content Include="img\gif antilope.gif" />
+    <Content Include="img\Gif cocodrilo.gif" />
+    <Content Include="img\gif hipopotamo.gif" />
+    <Content Include="img\gif leon.gif" />
     <Content Include="img\Jaguar.jpg" />
     <Content Include="img\Koala.jpg" />
     <Content Include="img\Leon.jpg" />
@@ -194,6 +198,7 @@
     <Content Include="img\toruga.jpg" />
     <Content Include="img\zari.jpg" />
     <Content Include="img\Zebra.jpg" />
+    <Content Include="Inicio.aspx" />
     <Content Include="Mamiferos.aspx" />
     <Content Include="packages.config" />
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
@@ -213,7 +218,10 @@
     <Content Include="POso.aspx" />
     <Content Include="PPechiBlanco.aspx" />
     <Content Include="PTortuga.aspx" />
+    <Content Include="QuienesSomos.aspx" />
+    <Content Include="Recomendaciones.aspx" />
     <Content Include="ZoomMapa.aspx" />
+    <Content Include="ZooVirtual.aspx" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
@@ -407,6 +415,13 @@
     <Compile Include="GanzoCisne.aspx.designer.cs">
       <DependentUpon>GanzoCisne.aspx</DependentUpon>
     </Compile>
+    <Compile Include="Inicio.aspx.cs">
+      <DependentUpon>Inicio.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Inicio.aspx.designer.cs">
+      <DependentUpon>Inicio.aspx</DependentUpon>
+    </Compile>
     <Compile Include="PAguila.aspx.cs">
       <DependentUpon>PAguila.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -491,6 +506,20 @@
     <Compile Include="PTortuga.aspx.designer.cs">
       <DependentUpon>PTortuga.aspx</DependentUpon>
     </Compile>
+    <Compile Include="QuienesSomos.aspx.cs">
+      <DependentUpon>QuienesSomos.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="QuienesSomos.aspx.designer.cs">
+      <DependentUpon>QuienesSomos.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Recomendaciones.aspx.cs">
+      <DependentUpon>Recomendaciones.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Recomendaciones.aspx.designer.cs">
+      <DependentUpon>Recomendaciones.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Tarifas_Horarios.aspx.cs">
       <DependentUpon>Tarifas_Horarios.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -545,6 +574,13 @@
     </Compile>
     <Compile Include="ZoomMapa.aspx.designer.cs">
       <DependentUpon>ZoomMapa.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ZooVirtual.aspx.cs">
+      <DependentUpon>ZooVirtual.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ZooVirtual.aspx.designer.cs">
+      <DependentUpon>ZooVirtual.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>
