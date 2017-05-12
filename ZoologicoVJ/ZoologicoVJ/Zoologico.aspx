@@ -44,7 +44,7 @@
             </p>
             <p>
                 
-    <a class="btn btn-default" href="Horarios_Tarifas.aspx" style="color: #000000; background-color: #008000">Horarios y tarifas &raquo;</a>
+    <a class="btn btn-default" href="Tarifas_Horarios.aspx" style="color: #000000; background-color: #008000">Horarios y tarifas &raquo;</a>
             </p>
         </div>
         <div class="col-md-4">
