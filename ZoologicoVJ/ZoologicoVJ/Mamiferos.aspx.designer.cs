@@ -22,15 +22,6 @@ namespace ZoologicoVJ {
         protected global::System.Web.UI.HtmlControls.HtmlForm form1;
         
         /// <summary>
-        /// Control lblMamiferos.
-        /// </summary>
-        /// <remarks>
-        /// Campo generado automáticamente.
-        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Label lblMamiferos;
-        
-        /// <summary>
         /// Control ImageButton1.
         /// </summary>
         /// <remarks>
@@ -65,15 +56,6 @@ namespace ZoologicoVJ {
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
         protected global::System.Web.UI.WebControls.ImageButton ImageButton4;
-        
-        /// <summary>
-        /// Control ImageButton5.
-        /// </summary>
-        /// <remarks>
-        /// Campo generado automáticamente.
-        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.ImageButton ImageButton5;
         
         /// <summary>
         /// Control Label1.

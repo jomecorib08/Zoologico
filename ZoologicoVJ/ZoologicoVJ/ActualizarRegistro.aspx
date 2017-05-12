@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Acuaticos.aspx.cs" Inherits="ZoologicoVJ.Acuaticos" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="ActualizarRegistro.aspx.cs" Inherits="ZoologicoVJ.ActualizarRegistro" %>
 
 <!DOCTYPE html>
 
@@ -8,42 +8,8 @@
     <title></title>
 </head>
 <body>
-    <form id="form1" runat="server" style="background-image: url('img/fondo.png')">
-        <table align="center">
-<tr> 
-    <td colspan="4">
-    <H1 style=" color:green; font-size:60px; text-align: center; width: 200px; height: 47px;" >Acuaticos</H1>
-        </td>
-</tr>
-            <tr>
-<td  colspan="4";>
-    <p style="font-size:15px; ">Se denominan animales acuáticos a los animales que viven en el agua durante toda o la mayor parte de su vida. El término se aplica tanto a los que viven en agua dulce como en salada.
-Se deben distinguir entre los animales que pueden aprovechar para la respiración el oxígeno disuelto en el agua y los que necesitan respirar el oxígeno del aire.
-
-    </p>
-</td>
-</tr>
-            
-          <tr>
-              <td style=" color:green; font-size:25px;">Caiman</td>
-              <td style=" color:green; font-size:25px;">Ganzo</td>
-              <td style=" color:green; font-size:25px;">Nutria</td>
-              <td style=" color:green; font-size:25px;">Tortuga</td>
-              </tr>
-        <td><asp:ImageButton ID="ImageButton1"  align="center" runat="server" Height="152px" ImageUrl="~/img/caiman.jpg" Width="192px" PostBackUrl="~/PCaiman.aspx" /></td>
-        <td> 
-            <asp:ImageButton ID="ImageButton5" align="center" runat="server" Height="152px" ImageUrl="~/img/ganzocisne.jpg" Width="192px" />
-            
-      <td> 
-          <asp:ImageButton ID="ImageButton6" align="center" runat="server" Height="152px" ImageUrl="~/img/Nutria.jpg" Width="192px" />
-            
-         <td>
-             <asp:ImageButton ID="ImageButton7"  align="center" runat="server" Height="152px" ImageUrl="~/img/tortuga-mordedora.jpg" Width="192px" />
-            
-      
-            </table>
-     <br>
-         <TABLE  align="center" width="39%" border="1">
+    <form id="form1" runat="server" style="background-image: url('img/fondo.png'); height: 1247px; width: 1085px;">
+    <TABLE  align="center" width="39%" border="1">
             <TR>
 <TD  style="color: green; font-size: 16pt; text-decoration: underline overline;text-align:center; font-style: normal; clip: rect(auto, 4px, auto, 4px);" class="auto-style2" aria-checked="undefined" colspan="2" rowspan="1">
     <asp:Label  ID="Label1" runat="server" Text="Nuestros habitantes" ></asp:Label></TD>
@@ -144,8 +110,6 @@ Se deben distinguir entre los animales que pueden aprovechar para la respiració
         </TD>
 
 </TABLE>
-
     </form>
-    </body>
+</body>
 </html>
-

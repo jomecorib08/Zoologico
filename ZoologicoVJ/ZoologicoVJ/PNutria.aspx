@@ -8,8 +8,8 @@
     <title></title>
 </head>
 <body>
-    <form id="form1" runat="server">
-    <div style="font-family: 'Berlin Sans FB'; font-size: 57px; color: #008000; height: 59px; clip: rect(auto, 10px, auto, 10px);">
+    <form id="form1" runat="server" style="background-image: url('img/fondo.png')">
+    <div style="font-family: 'Berlin Sans FB'; font-size: 57px; color: #008000; height: 59px; clip: rect(auto, 10px, auto, 10px); text-align: center;">
     
         NUTRIA<br />
         <br />
@@ -19,7 +19,7 @@
         <br />
     
     </div>
-        <asp:ImageButton ID="ImageButton1" runat="server" Height="229px" ImageAlign="TextTop" ImageUrl="~/img/Nutria.jpg" style="margin-top: 17px" Width="282px" />
+        <asp:ImageButton ID="ImageButton1" runat="server" Height="229px" ImageAlign="TextTop" ImageUrl="~/img/Nutria.jpg" style="margin-top: 17px" Width="282px" BorderStyle="Solid" />
         <br />
         <br />
         <br />
@@ -58,6 +58,7 @@
 </TR>
 
 </TABLE>
+        <asp:Button ID="Button1" runat="server" BackColor="#CCCC00" ForeColor="Black" Height="37px" PostBackUrl="~/ActualizarRegistro.aspx" Text="Actualizar Registro" Width="137px" />
     </form>
 </body>
 </html>

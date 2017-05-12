@@ -161,6 +161,7 @@
     <Content Include="Account\ResetPasswordConfirmation.aspx" />
     <Content Include="Account\TwoFactorAuthenticationSignIn.aspx" />
     <Content Include="Account\VerifyPhoneNumber.aspx" />
+    <Content Include="ActualizarRegistro.aspx" />
     <Content Include="Acuaticos.aspx" />
     <Content Include="Aves.aspx" />
     <Content Include="Contact.aspx" />
@@ -377,6 +378,13 @@
     </Compile>
     <Compile Include="Account\VerifyPhoneNumber.aspx.designer.cs">
       <DependentUpon>VerifyPhoneNumber.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ActualizarRegistro.aspx.cs">
+      <DependentUpon>ActualizarRegistro.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ActualizarRegistro.aspx.designer.cs">
+      <DependentUpon>ActualizarRegistro.aspx</DependentUpon>
     </Compile>
     <Compile Include="Acuaticos.aspx.cs">
       <DependentUpon>Acuaticos.aspx</DependentUpon>
