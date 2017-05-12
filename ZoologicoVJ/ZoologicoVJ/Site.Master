@@ -18,7 +18,7 @@
 </head>
 <body>
     <form runat="server">
-        <asp:ScriptManager runat="server">
+        <asp:ScriptManager runat="server" EmptyPageUrl="~/img/fondo.png">
             <Scripts>
                 <%--Para obtener más información sobre cómo agrupar scripts en ScriptManager, consulte http://go.microsoft.com/fwlink/?LinkID=301884 --%>
                 <%--Scripts de Framework--%>

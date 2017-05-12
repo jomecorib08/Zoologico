@@ -179,6 +179,7 @@
     <Content Include="img\caiman_aguja.jpg" />
     <Content Include="img\cebra.jpg" />
     <Content Include="img\Delfin.jpg" />
+    <Content Include="img\fondo.png" />
     <Content Include="img\ganzocisne.jpg" />
     <Content Include="img\gif antilope.gif" />
     <Content Include="img\Gif cocodrilo.gif" />
@@ -187,6 +188,7 @@
     <Content Include="img\Jaguar.jpg" />
     <Content Include="img\Koala.jpg" />
     <Content Include="img\Leon.jpg" />
+    <Content Include="img\leonCr.jpeg" />
     <Content Include="img\manati.jpg" />
     <Content Include="img\mapa.jpg" />
     <Content Include="img\mapa.png" />

@@ -2,25 +2,24 @@
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
 
-    <div class="jumbotron">
-        <h1 style="font-family: 'Berlin Sans FB'; color: #008000; font-size: 57px">
-            <asp:Image ID="Image1" runat="server" Height="120px" ImageUrl="~/img/banner1.jpg" Width="936px" />
-        </h1>
-        <h1 style="font-family: 'Berlin Sans FB'; color: #008000; font-size: 57px">Zoológico Ciudad Real</h1>
-        <p>&nbsp;</p>
-   
-   
-    </div>
+    
+    <table style="background-image: url('img/fondo.png')">
+        <tr>
+            <td>
 
-    <div class="row">
-        <div class="col-md-4" >
-            <h3 style="font-family: 'Berlin Sans FB'; color: #008000; font-size: xx-large; background-color: #B0B08A;">Nuestros Habitantes</h3>
-            <p style="font-family: 'Berlin Sans FB'; font-size: x-large; color: #008000; background-color: #C1C1A2;">
+               
+            <h3 style="font-family: 'Century Schoolbook'; color: #008000; font-size: xx-large; text-align: center; letter-spacing: 0em; background-image: url('img/fondo.png');" title="Zoologico Ciudad Real">Zoológico Ciudad Real</h3>
+            <p style="font-family: 'Century Schoolbook'; color: #008000; font-size: xx-large; text-align: center; background-image: url('img/fondo.png');">
+                <asp:Image ID="Image1" runat="server" Height="480px" ImageUrl="~/img/leonCr.jpeg" Width="998px" />
+            </p>
+            <h3 style="font-family: 'Berlin Sans FB'; color: #008000; font-size: xx-large; text-align: center;">Nuestros Habitantes</h3>
+            <p style="font-family: 'Berlin Sans FB'; font-size: x-large; color: #008000; text-align: center;">
                 Acuaticos</p>
             <p>
                 <asp:ImageButton ID="ImageButton1" runat="server" Height="129px" ImageUrl="~/img/Delfin.jpg" Width="181px"  PostBackUrl="~/Acuaticos.aspx" />
             </p>
-            <p style="font-family: 'Berlin Sans FB'; font-size: x-large; color: #008000; background-color: #C1C1A2;">
+
+            <p style="font-family: 'Berlin Sans FB'; font-size: x-large; color: #008000; text-align: center;">
                 Mamiferos</p>
             <p>
                 <asp:ImageButton ID="ImageButton2" runat="server" Height="145px" ImageUrl="~/img/Leon.jpg" Width="185px" PostBackUrl="~/Mamiferos.aspx" />
@@ -32,12 +31,12 @@
             </p>
             <p>
                 &nbsp;</p>
-            <p>
-                &nbsp;</p>
-            <p>
-                <a class="btn btn-default" href="http://go.microsoft.com/fwlink/?LinkId=301949">Learn more &raquo;</a></p>
-        </div>
-        <div class="col-md-4">
+
+            </td> 
+            </tr>
+        <tr>
+            <td>
+                                        
             <h2 style="font-family: 'Berlin Sans FB'; color: #008000; font-size: xx-large; background-color: #B0B08A">Tarifas y horarios</h2>
             <p>
               En este espacio se encuentran las diferentes horarios y tarifa disponibles para que disfrutes de la experiencia del Zoologico Ciudad Real.
@@ -46,8 +45,11 @@
                 
     <a class="btn btn-default" href="Tarifas_Horarios.aspx" style="color: #000000; background-color: #008000">Horarios y tarifas &raquo;</a>
             </p>
-        </div>
-        <div class="col-md-4">
+       </td>  
+            </tr>
+
+        <tr>
+            <td>
             <h2 style="font-family: 'Berlin Sans FB'; color: #008000; font-size: xx-large; background-color: #B0B08A">&nbsp;Mapa del Sitio</h2>
             <p>
                 Acontinuación encontrarán el mapa del 
@@ -85,10 +87,8 @@
                 &nbsp;</p>
             <p>
                 &nbsp;</p>
-         
-        </div>
-        <div style="height: 211px">
-        </div>
-    </div>
-
+         </td>
+        </tr>
+  
+    </table>
 </asp:Content>
