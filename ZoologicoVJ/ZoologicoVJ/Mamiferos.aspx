@@ -8,7 +8,7 @@
     <title></title>
 </head>
 <body>
-     <form id="form1" runat="server">
+     <form id="form1" runat="server" style="background-image: url('img/fondo.png')">
          <table> 
         <TR>
 <TD colspan="4">
@@ -34,7 +34,7 @@ Entre los mamíferos existen animales tan pequeños que en su estado adulto pesa
         <TD  style="color: green; font-size: 25pt" >Antilope</TD>
             <TD  style="color: green; font-size: 25pt" >Cebra</TD>
             <TD style="color: green; font-size: 25pt" >Koala</TD>
-            <TD style="color: green; font-size: 25pt">Leon</TD >
+            <TD style="color: green; font-size: 25pt">León</TD >
     </TR>
          <TR>
         <TD> <asp:ImageButton ID="ImageButton1" runat="server" Height="145px" ImageUrl="~/img/antilope.jpg" Width="189px" PostBackUrl="~/PAntilope.aspx" /> </TD>

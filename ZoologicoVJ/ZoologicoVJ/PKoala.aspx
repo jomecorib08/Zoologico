@@ -8,7 +8,7 @@
     <title></title>
 </head>
 <body>
-    <form id="form1" runat="server">
+    <form id="form1" runat="server" style="background-image: url('img/fondo.png'); text-align: center; height: 1008px; width: 1082px;">
     <div style="font-family: 'Berlin Sans FB'; font-size: 57px; color: #008000; height: 59px; clip: rect(auto, 10px, auto, 10px);">
     
         KOALA<br />
@@ -29,7 +29,7 @@
         
 <TABLE Border="1" width="50%">
 <TR>
-<TH colspan ="2" style="color: green; font-size: 12pt">kOALA</TH>
+<TH colspan ="2" style="color: green; font-size: 12pt">Koala</TH>
 
 </TR>
 <TR>
@@ -58,6 +58,8 @@
 </TR>
 
 </TABLE>
+        <br />
+        <asp:Button ID="Button1" runat="server" BackColor="#CCCC00" BorderColor="#99CC00" Height="32px" PostBackUrl="~/ActualizarRegistro.aspx" Text="Actualizar Registro" Width="168px" />
     </form>
 </body>
 </html>

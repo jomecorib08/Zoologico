@@ -8,8 +8,8 @@
     <title></title>
 </head>
 <body>
-    <form id="form1" runat="server">
-    <div style="font-family: 'Berlin Sans FB'; font-size: 57px; color: #008000; height: 59px; clip: rect(auto, 10px, auto, 10px);">
+    <form id="form1" runat="server" style="background-image: url('img/fondo.png'); height: 796px; width: 1090px;">
+    <div style="font-family: 'Berlin Sans FB'; font-size: 57px; color: #008000; height: 59px; clip: rect(auto, 10px, auto, 10px); text-align: center;">
     
         ANTILOPE<br />
         <br />
@@ -58,6 +58,8 @@
 </TR>
 
 </TABLE>
+        <br />
+        <asp:Button ID="Button1" runat="server" BackColor="#99CC00" Height="36px" PostBackUrl="~/ActualizarRegistro.aspx" Text="Actualizar Registro" Width="168px" />
     </form>
 </body>
 </html>

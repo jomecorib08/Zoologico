@@ -8,7 +8,7 @@
     <title></title>
 </head>
 <body>
-    <form id="form1" runat="server">
+    <form id="form1" runat="server" style="text-align: center; background-image: url('img/fondo.png'); height: 660px;">
     <div style="font-family: 'Berlin Sans FB'; font-size: 57px; color: #008000; height: 59px; clip: rect(auto, 10px, auto, 10px);">
     
         CEBRA<br />
@@ -58,6 +58,9 @@
 </TR>
 
 </TABLE>
+        <br />
+        <br />
+        <asp:Button ID="Button1" runat="server" BackColor="#99CC00" Height="43px" PostBackUrl="~/ActualizarRegistro.aspx" Text="Actualizar Registro" Width="177px" />
     </form>
 </body>
 </html>
