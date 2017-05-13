@@ -191,6 +191,7 @@
     <Content Include="img\Koala.jpg" />
     <Content Include="img\Leon.jpg" />
     <Content Include="img\leonCr.jpeg" />
+    <Content Include="img\logo-zoo-ciudad-real.png" />
     <Content Include="img\manati.jpg" />
     <Content Include="img\mapa.jpg" />
     <Content Include="img\mapa.png" />
@@ -198,6 +199,8 @@
     <Content Include="img\oso.jpg" />
     <Content Include="img\osoHormiguero.jpg" />
     <Content Include="img\pechiblanco.jpg" />
+    <Content Include="img\PESOS.png" />
+    <Content Include="img\RELOJ.jpg" />
     <Content Include="img\tortuga-mordedora.jpg" />
     <Content Include="img\toruga.jpg" />
     <Content Include="img\zari.jpg" />

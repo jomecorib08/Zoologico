@@ -51,105 +51,156 @@ Entre los mamíferos existen animales tan pequeños que en su estado adulto pesa
         <br />
 
          
-             <TABLE align="center" border="1" style="width: 39%" >
-    <TR>
-<TD  style="color: green; font-size: 16pt; text-align:center; text-decoration: underline overline; font-style: normal;" class="auto-style2" aria-checked="undefined" colspan="2" rowspan="1">
-    <asp:Label align="center" ID="Label1" runat="server" Text="Nuestros habitantes" ></asp:Label></TD>
-           
-<TR>
-<TD  style="color: green; font-size: 12pt" class="auto-style2">
-    <asp:Label ID="NombreAnimal" runat="server" Text="Nombre animal"></asp:Label></TD>
-    <TD> <asp:TextBox ID="TextNombreAnimal" runat="server"></asp:TextBox></TD>
+            <TABLE  align="center" width="39%" border="1">
+            <TR>
+<TD  style="color: green; font-size: 16pt; text-decoration: underline overline;text-align:center; font-style: normal; clip: rect(auto, 4px, auto, 4px);" class="auto-style2" aria-checked="undefined" colspan="2" rowspan="1">
+    <asp:Label  ID="Label1" runat="server" Text="Nuestros habitantes" ></asp:Label></TD>
 </TR>
 <TR>
-<TD style="color: green; font-size: 12pt" class="auto-style2" >
-    <asp:Label ID="LabelNumeroPatas" runat="server" Text="Numero de patas"></asp:Label>
+<TD  style="color: green; font-size: 12pt" class="auto-style3">
+    <asp:Label ID="txtNombres" runat="server" Text="Nombre animal"></asp:Label>
+    
 </TD>
-<TD> <asp:DropDownList ID="DropDownNumeroPatas" runat="server">
-    <asp:ListItem>2</asp:ListItem>
-    <asp:ListItem>4</asp:ListItem>
-     </asp:DropDownList></TD>
+    <TD class="auto-style1"> <asp:TextBox ID="TextBox8" runat="server"></asp:TextBox>
+        <asp:RequiredFieldValidator ID="VtxtNombres" 
+                            ControlToValidate="TextBox8"
+                            runat="server" 
+                            Text="*"
+                            ForeColor="Red"
+                            ErrorMessage="Por favor ingrese el nombre del animal" />
+    </TD>
 </TR>
 <TR>
-<TD style="color: green; font-size: 12pt" class="auto-style2">
-    <asp:Label ID="Edad" runat="server" Text="Edad"></asp:Label></TD>
-<TD>
-    <asp:TextBox ID="TextEdad" runat="server" Height="17px" Width="40px"></asp:TextBox></TD>
-</TR>
-<TR>
-<TD style="color: green; font-size: 12pt" class="auto-style2">
-    <asp:Label ID="PaisOrigen" runat="server" Text="Pais de origen"></asp:Label></TD>
-<TD>
-    <asp:TextBox ID="TextPaisOrigen" runat="server"></asp:TextBox></TD>
-</TR>
-<TR>
-<TD style="color: green; font-size: 12pt" class="auto-style2">
-    <asp:Label ID="Especie" runat="server" Text="Especie"></asp:Label></TD>
-<TD> <asp:DropDownList ID="DropDownEspecie" runat="server">
-    <asp:ListItem> Equus quagga </asp:ListItem>
-    <asp:ListItem> Equus zebra </asp:ListItem>
-<asp:ListItem> Equus grevyi  </asp:ListItem>
-    <asp:ListItem> ceratotherium simum</asp:ListItem>
-<asp:ListItem>  Diceros bicornis  </asp:ListItem>
-    <asp:ListItem> Rhinoceros unicornis </asp:ListItem>
-<asp:ListItem>    Dicerorhinus sumatrensis</asp:ListItem>
-    <asp:ListItem> Rhinoceros sondaicus </asp:ListItem>
-    <asp:ListItem> D. marsupialis </asp:ListItem>
-<asp:ListItem> M. tridactyla </asp:ListItem>
-    <asp:ListItem> Panthera onca </asp:ListItem>
-<asp:ListItem> Panthera leo </asp:ListItem>
-    <asp:ListItem> camelus </asp:ListItem>
-     </asp:DropDownList>
+<TD style="color: green; font-size: 12pt" class="auto-style3" >
+    <asp:Label ID="Label14" runat="server" Text="Mamifero"></asp:Label>
+</TD>
+<TD class="auto-style1"> 
+    <asp:RadioButton ID="RadioMSi" runat="server" Text="SI" />
+  
+    <asp:RadioButton ID="RadioMNo" runat="server" Text="NO" />
+
 </TD>
 </TR>
-    <TR>
-<TD style="color: green; font-size: 12pt" class="auto-style2">
-    <asp:Label ID="Subespecie" runat="server" Text="Subespecie"></asp:Label></TD>
-<TD>
-    <asp:TextBox ID="TextSubespecie" runat="server"></asp:TextBox></TD>
+<TR>
+<TD style="color: green; font-size: 12pt" class="auto-style3">
+    <asp:Label ID="Label15" runat="server" Text="Edad"></asp:Label></TD>
+<TD class="auto-style1">
+    <asp:TextBox ID="TextBox9" runat="server"></asp:TextBox>
+    <asp:RequiredFieldValidator ID="VtEdad" 
+                            ControlToValidate="TextBox9"
+                            runat="server" 
+                            Text="*"
+                            ForeColor="Red"
+                            ErrorMessage="Por favor ingrese la edad del animal" />
+    
+</TD>
+</TR>
+<TR>
+<TD style="color: green; font-size: 12pt" class="auto-style3">
+    <asp:Label ID="Label16" runat="server" Text="Pais de origen"></asp:Label></TD>
+<TD class="auto-style1">
+    <asp:TextBox ID="TextBox10" runat="server"></asp:TextBox>
+    <asp:RequiredFieldValidator ID="VtPais" 
+                            ControlToValidate="TextBox10"
+                            runat="server" 
+                            Text="*"
+                            ForeColor="Red"
+                            ErrorMessage="Por favor ingrese el Pais de origen del animal" />
+</TD>
+</TR>
+<TR>
+<TD style="color: green; font-size: 12pt" class="auto-style3">
+    <asp:Label ID="Label17" runat="server" Text="Especie"></asp:Label></TD>
+<TD class="auto-style1"><asp:DropDownList ID="DropDownEspecie" runat="server">
+<asp:ListItem> Lontra longicaudis</asp:ListItem>
+<asp:ListItem> Crocodylus acutus </asp:ListItem>
+<asp:ListItem> Chelydra serpentina </asp:ListItem>
+<asp:ListItem> Hippopotamus amphibius </asp:ListItem>
+<asp:ListItem> Anser cygnoides </asp:ListItem>
+</asp:DropDownList>
+
+   
+       </TD>
 </TR>
     <TR>
-<TD style="color: green; font-size: 12pt" class="auto-style2">
-    <asp:Label ID="HabitosAlimenticios" runat="server" Text="Habitos alimenticios"></asp:Label></TD>
-<TD>
-    <asp:TextBox ID="TextHabitosAlimenticios" runat="server"></asp:TextBox></TD>
+<TD style="color: green; font-size: 12pt" class="auto-style3">
+    <asp:Label ID="Label18" runat="server" Text="Subespecie"></asp:Label></TD>
+<TD class="auto-style1">
+    <asp:TextBox ID="TextBox12" runat="server"></asp:TextBox>
+
+     <asp:RequiredFieldValidator ID="VfSubespecie" 
+                            ControlToValidate="TextBox12"
+                            runat="server" 
+                            Text="*"
+                            ForeColor="Red"
+                            ErrorMessage="Por favor ingrese la Subespecie del animal" />
+</TD>
+</TR>
+    <TR>
+<TD style="color: green; font-size: 12pt" class="auto-style3">
+    <asp:Label ID="Label19" runat="server" Text="Habitos alimenticios"></asp:Label></TD>
+<TD class="auto-style1">
+    <asp:TextBox ID="TextBox13" runat="server"></asp:TextBox>
+
+     <asp:RequiredFieldValidator ID="VfAliemntos" 
+                            ControlToValidate="TextBox13"
+                            runat="server" 
+                            Text="*"
+                            ForeColor="Red"
+                            ErrorMessage="Por favor ingrese los Habitos alimenticios del animal" />
+
+</TD>
 </TR>
                 <TR>
-<TD style="color: green; font-size: 12pt" class="auto-style2">
-    <asp:Label ID="Localidad" runat="server" Text="Localidad"></asp:Label></TD>
-<TD>
-    <asp:DropDownList ID="DropDownLocalidad" runat="server">
+<TD style="color: green; font-size: 12pt" class="auto-style3">
+    <asp:Label ID="Label20" runat="server" Text="Localidad"></asp:Label></TD>
+<TD class="auto-style1">
+    <asp:DropDownList ID="DropDownList3" runat="server">
         <asp:ListItem>Terrestre</asp:ListItem>
         <asp:ListItem>Aerea</asp:ListItem>
         <asp:ListItem>Acuatica</asp:ListItem>
     </asp:DropDownList>
+
 </TD>
 </TR>
+
     <TR>
-<TD style="color: green; font-size: 12pt" class="auto-style2">
-    <asp:Label ID="Tamaño" runat="server" Text="Tamaño"></asp:Label></TD>
-<TD>
-    <asp:TextBox ID="TextTamaño" runat="server" Height="16px" Width="76px"></asp:TextBox> </TD>
+<TD style="color: green; font-size: 12pt" class="auto-style3">
+    <asp:Label ID="Label21" runat="server" Text="Tamaño"></asp:Label></TD>
+<TD class="auto-style1">
+    <asp:TextBox ID="TextBox14" runat="server"></asp:TextBox> 
+     <asp:RequiredFieldValidator ID="VfTamaño" 
+                            ControlToValidate="TextBox14"
+                            runat="server" 
+                            Text="*"
+                            ForeColor="Red"
+                            ErrorMessage="Por favor ingrese el tamaño de la localidad del animal" />
+</TD>
 </TR>
- <TR>
-<TD style="color: green; font-size: 12pt" class="auto-style2">
-    <asp:Label ID="Visitable" runat="server" Text="Visitable"></asp:Label></TD>
-<TD>
-    <asp:RadioButton ID="RadioSi" runat="server" BorderStyle="None" Text="SI" />
-    <asp:RadioButton ID="RadioNo" runat="server" Text="NO" />
+
+    <TR>
+<TD style="color: green; font-size: 12pt" class="auto-style3">
+    <asp:Label ID="Label22" runat="server" Text="Visitable"></asp:Label></TD>
+<TD class="auto-style1">
+    
+    <asp:RadioButton ID="RadioButton3" runat="server" Text="SI" />
+    
+    <asp:RadioButton ID="RadioButton4" runat="server" Text="NO" />
     </TD>
 </TR>
-   <TD  colspan="2" rowspan="1">
-               &nbsp; &nbsp;&nbsp;
-        &nbsp;&nbsp;  &nbsp;
-        &nbsp;&nbsp; <asp:Button ID="Button3"  runat="server" Text="Registrar"  />  &nbsp;&nbsp;
+           <TD colspan="2" rowspan="1">
+              &nbsp; &nbsp;&nbsp;
+        &nbsp;&nbsp;  &nbsp; &nbsp;&nbsp;
+        &nbsp;&nbsp;  &nbsp; &nbsp;&nbsp;
+        &nbsp;&nbsp;  <asp:Button ID="Button3" runat="server" Text="Registrar"   />  &nbsp;&nbsp;
         &nbsp;&nbsp; &nbsp;&nbsp;
         &nbsp;&nbsp; &nbsp;&nbsp;
-        &nbsp;&nbsp;<asp:Button  ID="Button1"  runat="server" Text="Consultar"  />
+        &nbsp;&nbsp; &nbsp;&nbsp;
+        &nbsp;&nbsp;<asp:Button  ID="Button1" runat="server" Text="Consultar"  />
         </TD>
 
+</TABLE>
 
-         </TABLE>
      
 
 

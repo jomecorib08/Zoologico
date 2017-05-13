@@ -49,6 +49,15 @@ namespace ZoologicoVJ {
         protected global::System.Web.UI.WebControls.TextBox TextBox8;
         
         /// <summary>
+        /// Control VtxtNombres.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RequiredFieldValidator VtxtNombres;
+        
+        /// <summary>
         /// Control Label14.
         /// </summary>
         /// <remarks>
@@ -94,6 +103,15 @@ namespace ZoologicoVJ {
         protected global::System.Web.UI.WebControls.TextBox TextBox9;
         
         /// <summary>
+        /// Control VtEdad.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RequiredFieldValidator VtEdad;
+        
+        /// <summary>
         /// Control Label16.
         /// </summary>
         /// <remarks>
@@ -101,6 +119,15 @@ namespace ZoologicoVJ {
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
         protected global::System.Web.UI.WebControls.Label Label16;
+        
+        /// <summary>
+        /// Control VtPais.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RequiredFieldValidator VtPais;
         
         /// <summary>
         /// Control TextBox10.
@@ -139,6 +166,15 @@ namespace ZoologicoVJ {
         protected global::System.Web.UI.WebControls.Label Label18;
         
         /// <summary>
+        /// Control VfSubespecie.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RequiredFieldValidator VfSubespecie;
+        
+        /// <summary>
         /// Control TextBox12.
         /// </summary>
         /// <remarks>
@@ -155,6 +191,15 @@ namespace ZoologicoVJ {
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
         protected global::System.Web.UI.WebControls.Label Label19;
+        
+        /// <summary>
+        /// Control VfAliemntos.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RequiredFieldValidator VfAliemntos;
         
         /// <summary>
         /// Control TextBox13.
@@ -200,6 +245,15 @@ namespace ZoologicoVJ {
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox TextBox14;
+        
+        /// <summary>
+        /// Control VfTamaño.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RequiredFieldValidator VfTamaño;
         
         /// <summary>
         /// Control Label22.

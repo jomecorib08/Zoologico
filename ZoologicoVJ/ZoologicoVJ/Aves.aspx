@@ -56,7 +56,15 @@ Son animales endotérmicos (pueden controlar su temperatura corporal mediante ac
 </TR>
 <TD  style="color: green; font-size: 12pt">
     <asp:Label ID="Label2" runat="server" Text="Nombre animal"></asp:Label></TD>
-    <TD> <asp:TextBox ID="TextBox1" runat="server"></asp:TextBox></TD>
+    <TD> <asp:TextBox ID="TextBox1" runat="server"></asp:TextBox>
+
+        <asp:RequiredFieldValidator ID="VtxtNombres" 
+                            ControlToValidate="TextBox1"
+                            runat="server" 
+                            Text="*"
+                            ForeColor="Red"
+                            ErrorMessage="Por favor ingrese el nombre del animal" />
+    </TD>
 </TR>
 <TR>
 <TD style="color: green; font-size: 12pt" >
@@ -72,13 +80,29 @@ Son animales endotérmicos (pueden controlar su temperatura corporal mediante ac
 <TD style="color: green; font-size: 12pt">
     <asp:Label ID="Label4" runat="server" Text="Edad"></asp:Label></TD>
 <TD>
-    <asp:TextBox ID="TextBox2" runat="server"></asp:TextBox></TD>
+    <asp:TextBox ID="TextBox2" runat="server"></asp:TextBox>
+
+    <asp:RequiredFieldValidator ID="VtEdad" 
+                            ControlToValidate="TextBox2"
+                            runat="server" 
+                            Text="*"
+                            ForeColor="Red"
+                            ErrorMessage="Por favor ingrese la edad del animal" />
+</TD>
 </TR>
 <TR>
 <TD style="color: green; font-size: 12pt">
     <asp:Label ID="Label5" runat="server" Text="Pais de origen"></asp:Label></TD>
 <TD>
-    <asp:TextBox ID="TextBox3" runat="server"></asp:TextBox></TD>
+    <asp:TextBox ID="TextBox3" runat="server"></asp:TextBox>
+
+    <asp:RequiredFieldValidator ID="VtPais" 
+                            ControlToValidate="TextBox3"
+                            runat="server" 
+                            Text="*"
+                            ForeColor="Red"
+                            ErrorMessage="Por favor ingrese el Pais de origen del animal" />
+</TD>
 </TR>
 <TR>
 
@@ -100,15 +124,31 @@ Son animales endotérmicos (pueden controlar su temperatura corporal mediante ac
 </TR>
     <TR>
 <TD style="color: green; font-size: 12pt">
-    <asp:Label ID="Label7" runat="server" Text="Subespecie"></asp:Label></TD>
-<TD>
-    <asp:TextBox ID="TextBox5" runat="server"></asp:TextBox></TD>
+    <asp:Label ID="Label7" runat="server" Text="Subespecie"></asp:Label>
+</TD>
+<TD> <asp:TextBox ID="TextBox5" runat="server"></asp:TextBox>
+
+     <asp:RequiredFieldValidator ID="VfSubespecie" 
+                            ControlToValidate="TextBox5"
+                            runat="server" 
+                            Text="*"
+                            ForeColor="Red"
+                            ErrorMessage="Por favor ingrese la Subespecie del animal" />
+</TD>
 </TR>
     <TR>
 <TD style="color: green; font-size: 12pt">
     <asp:Label ID="Label8" runat="server" Text="Habitos alimenticios"></asp:Label></TD>
 <TD>
-    <asp:TextBox ID="TextBox6" runat="server"></asp:TextBox></TD>
+    <asp:TextBox ID="TextBox6" runat="server"></asp:TextBox>
+
+     <asp:RequiredFieldValidator ID="VfAliemntos" 
+                            ControlToValidate="TextBox6"
+                            runat="server" 
+                            Text="*"
+                            ForeColor="Red"
+                            ErrorMessage="Por favor ingrese los Habitos alimenticios del animal" />
+</TD>
 </TR>
                 <TR>
 <TD style="color: green; font-size: 12pt">
@@ -127,7 +167,15 @@ Son animales endotérmicos (pueden controlar su temperatura corporal mediante ac
 <TD style="color: green; font-size: 12pt">
     <asp:Label ID="Label10" runat="server" Text="Tamaño"></asp:Label></TD>
 <TD>
-    <asp:TextBox ID="TextBox7" runat="server"></asp:TextBox> </TD>
+    <asp:TextBox ID="TextBox7" runat="server"></asp:TextBox>
+
+    <asp:RequiredFieldValidator ID="VfTamaño" 
+                            ControlToValidate="TextBox7"
+                            runat="server" 
+                            Text="*"
+                            ForeColor="Red"
+                            ErrorMessage="Por favor ingrese el tamaño de la localidad del animal" />
+</TD>
 </TR>
 
     <TR>
@@ -151,6 +199,7 @@ Son animales endotérmicos (pueden controlar su temperatura corporal mediante ac
 
 
 </TABLE>
+
 
 
      </form>   

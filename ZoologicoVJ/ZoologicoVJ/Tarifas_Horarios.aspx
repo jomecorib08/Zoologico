@@ -8,18 +8,20 @@
     <title></title>
 </head>
 <body>
-     <form id="form1" runat="server">
+     <form id="form1" runat="server" style="background-image: url('img/fondo.png')">
     <div style="height: 2782px; width: 620px; margin-right: 0px;">
     
       
        
- <H1>Horarios</H1>
+ <H1 style="color: #008000; font-size: xx-large; font-family: &quot;Berlin Sans FB&quot;">Horarios&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+     <asp:Image ID="Image1" runat="server" Height="94px" ImageUrl="~/img/RELOJ.jpg" Width="156px" />
+        </H1>
 <TABLE> 
                 <TR>
 
 <TH>
        
- <H1>Horarios</H1>
+ <H1 style="font-family: &quot;Berlin Sans FB&quot;; color: #008000; font-size: xx-large">Horarios</H1>
 <TABLE Border="1" width="100%">
 <TR>
 <TH>Dias</TH>
@@ -46,7 +48,9 @@
            <BR>
            <BR>
 
-           <H1>Tarifas</H1>
+           <H1 style="font-family: &quot;Berlin Sans FB&quot;; color: #008000; font-size: xx-large">Tarifas&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+               <asp:Image ID="Image2" runat="server" Height="110px" ImageUrl="~/img/PESOS.png" Width="160px" />
+    </H1>
 
 <p style="color: green; font-size: 12pt"> Tarifa Plena: </p>           
 <TABLE Border="1" width="100%" ">
