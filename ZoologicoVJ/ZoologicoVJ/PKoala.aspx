@@ -59,7 +59,7 @@
 
 </TABLE>
         <br />
-        <asp:Button ID="Button1" runat="server" BackColor="#CCCC00" BorderColor="#99CC00" Height="32px" PostBackUrl="~/ActualizarRegistro.aspx" Text="Actualizar Registro" Width="168px" />
+        <asp:Button ID="Button1" runat="server" BackColor="#CCCC00" BorderColor="#99CC00" Height="32px" PostBackUrl="~/ActualizarRegisMami.aspx" Text="Actualizar Registro" Width="168px" />
     </form>
 </body>
 </html>

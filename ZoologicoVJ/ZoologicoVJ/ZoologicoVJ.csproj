@@ -161,7 +161,8 @@
     <Content Include="Account\ResetPasswordConfirmation.aspx" />
     <Content Include="Account\TwoFactorAuthenticationSignIn.aspx" />
     <Content Include="Account\VerifyPhoneNumber.aspx" />
-    <Content Include="ActualizarRegistro.aspx" />
+    <Content Include="ActualizarRegisAcua.aspx" />
+    <Content Include="ActualizarRegisMami.aspx" />
     <Content Include="Acuaticos.aspx" />
     <Content Include="Aves.aspx" />
     <Content Include="Contact.aspx" />
@@ -223,6 +224,7 @@
     <Content Include="PTortuga.aspx" />
     <Content Include="QuienesSomos.aspx" />
     <Content Include="Recomendaciones.aspx" />
+    <Content Include="ActualizaRegisAve.aspx" />
     <Content Include="ZoomMapa.aspx" />
     <Content Include="ZooVirtual.aspx" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
@@ -379,12 +381,19 @@
     <Compile Include="Account\VerifyPhoneNumber.aspx.designer.cs">
       <DependentUpon>VerifyPhoneNumber.aspx</DependentUpon>
     </Compile>
+    <Compile Include="ActualizarRegisAcua.aspx.cs">
+      <DependentUpon>ActualizarRegisAcua.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ActualizarRegisAcua.aspx.designer.cs">
+      <DependentUpon>ActualizarRegisAcua.aspx</DependentUpon>
+    </Compile>
     <Compile Include="ActualizarRegistro.aspx.cs">
-      <DependentUpon>ActualizarRegistro.aspx</DependentUpon>
+      <DependentUpon>ActualizarRegisMami.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="ActualizarRegistro.aspx.designer.cs">
-      <DependentUpon>ActualizarRegistro.aspx</DependentUpon>
+      <DependentUpon>ActualizarRegisMami.aspx</DependentUpon>
     </Compile>
     <Compile Include="Acuaticos.aspx.cs">
       <DependentUpon>Acuaticos.aspx</DependentUpon>
@@ -536,6 +545,13 @@
     </Compile>
     <Compile Include="Tarifas_Horarios.aspx.designer.cs">
       <DependentUpon>Tarifas_Horarios.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ActualizaRegisAve.aspx.cs">
+      <DependentUpon>ActualizaRegisAve.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ActualizaRegisAve.aspx.designer.cs">
+      <DependentUpon>ActualizaRegisAve.aspx</DependentUpon>
     </Compile>
     <Compile Include="Zoologico.aspx.cs">
       <DependentUpon>Zoologico.aspx</DependentUpon>

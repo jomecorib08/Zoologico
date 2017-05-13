@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Aves.aspx.cs" Inherits="ZoologicoVJ.Aves" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="ActualizaRegisAve.aspx.cs" Inherits="ZoologicoVJ.WebForm1" %>
 
 <!DOCTYPE html>
 
@@ -7,49 +7,9 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
     <title></title>
 </head>
-     
-<body style="height: 995px; width: 1077px">
-   <form id="form1" runat="server" style="background-image: url('img/fondo.png'); height: 1529px; width: 1148px;">
-     <table> 
-        <TR>
-<TD colspan="4">
-
-    <H1 style="color: green; font-size: 60pt" align="Center">Aves</H1>
-
-    </TD>
-    </TR>
-         <TR>
-<TD colspan="4" style="font-size: 15pt">
-   <p> Las aves, ocupan casi todos los hábitats disponibles en la superficie de Tierra. Su movilidad sin paralelo en los organismos vivientes, les ha dado la ventaja de hacer migraciones 
-       estacionales de grandes distancias, lo que les permite hallar hábitats más apropiados para reproducirse, encontrar alimento y evitar predadores.
-Son animales endotérmicos (pueden controlar su temperatura corporal mediante actividad interna, como tiritar, quemar grasas y jadear). 
-  que tienen una característica única en el reino animal, la posesión de plumas. También presentan adaptaciones especiales para el vuelo, 
- como extremidades anteriores modificadas en forma de alas, huesos "huecos", picos córneos en lugar de pesadas mandíbulas óseas, endotermia, tasas metabólicas altas 
-       (de seis a diez veces mayores que las de reptiles con peso y temperatura similares), corazones grandes y alta presión circulatoria, sistema respiratorio altamente eficiente,
-        visión aguda y excelente coordinación neuromuscular . </p>
-    </TD>
-    </TR>
-        <TR>
-        <TD  style="color: green; font-size: 25pt" >Buho</TD>
-            <TD  style="color: green; font-size: 25pt" >Barranquero</TD>
-            <TD style="color: green; font-size: 25pt" >Aguila</TD>
-            <TD style="color: green; font-size: 25pt">Pechiblanco</TD >
-    </TR>
-         <TR>
-      <TD>  <asp:ImageButton ID="ImageButton2" runat="server" Height="149px" ImageUrl="~/img/buho.jpg" Width="186px" PostBackUrl="~/PBuho.aspx"/></TD>
-      <TD>  <asp:ImageButton ID="ImageButton3" runat="server" Height="149px" ImageUrl="~/img/barranquero.jpg" Width="186px" PostBackUrl="~/PBarranquero.aspx" /></TD>
-       <TD> <asp:ImageButton ID="ImageButton4" runat="server" Height="149px" ImageUrl="~/img/Aguila.jpg" Width="186px" PostBackUrl="~/PAguila.aspx" /></TD>
-       <TD><asp:ImageButton ID="ImageButton5" runat="server" Height="149px" ImageUrl="~/img/pechiblanco.jpg" Width="186px" PostBackUrl="~/PPechiBlanco.aspx" /></TD>
-       
- </TR>
-        </table> 
-         <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        
-        <TABLE align="center" style="width: 39%"  border="1">
+<body>
+    <form id="form1" runat="server">
+   <TABLE align="center" style="width: 39%"  border="1">
      <TR>
 <TD  style="color: green; font-size: 16pt;text-align:center; text-decoration: underline overline; font-style: normal;" class="auto-style2" aria-checked="undefined" colspan="2" rowspan="1">
     <asp:Label align="center" ID="Label1" runat="server" Text="Nuestros habitantes" ></asp:Label></TD>
@@ -151,9 +111,6 @@ Son animales endotérmicos (pueden controlar su temperatura corporal mediante ac
 
 
 </TABLE>
-
-
-     </form>   
-    </body>
-    
+    </form>
+</body>
 </html>

@@ -24,7 +24,7 @@
             <p>
                 <asp:ImageButton ID="ImageButton2" runat="server" Height="145px" ImageUrl="~/img/Leon.jpg" Width="185px" PostBackUrl="~/Mamiferos.aspx" />
             </p>
-            <p style="font-family: 'Berlin Sans FB'; color: #008000; font-size: x-large; background-color: #C1C1A2;">
+            <p style="font-family: 'Berlin Sans FB'; color: #008000; font-size: x-large; text-align: center;">
                 Aves</p>
             <p>
                 <asp:ImageButton ID="ImageButton3" runat="server" Height="126px" ImageUrl="~/img/Aguila.jpg" Width="184px" PostBackUrl="~/Aves.aspx" />
@@ -37,7 +37,7 @@
         <tr>
             <td>
                                         
-            <h2 style="font-family: 'Berlin Sans FB'; color: #008000; font-size: xx-large; background-color: #B0B08A">Tarifas y horarios</h2>
+            <h2 style="font-family: 'Berlin Sans FB'; color: #008000; font-size: xx-large; text-align: center;">Tarifas y horarios</h2>
             <p>
               En este espacio se encuentran las diferentes horarios y tarifa disponibles para que disfrutes de la experiencia del Zoologico Ciudad Real.
             </p>
@@ -50,7 +50,7 @@
 
         <tr>
             <td>
-            <h2 style="font-family: 'Berlin Sans FB'; color: #008000; font-size: xx-large; background-color: #B0B08A">&nbsp;Mapa del Sitio</h2>
+            <h2 style="font-family: 'Berlin Sans FB'; color: #008000; font-size: xx-large; text-align: center;">&nbsp;Mapa del Sitio</h2>
             <p>
                 Acontinuación encontrarán el mapa del 
                 sitio</p>

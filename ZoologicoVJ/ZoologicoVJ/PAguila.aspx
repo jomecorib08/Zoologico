@@ -7,9 +7,9 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
     <title></title>
 </head>
-<body>
-    <form id="form1" runat="server">
-    <div style="font-family: 'Berlin Sans FB'; font-size: 57px; color: #008000; height: 59px; clip: rect(auto, 10px, auto, 10px);">
+<body style="height: 646px; width: 1074px">
+    <form id="form1" runat="server" style="background-image: url('img/fondo.png'); height: 870px; width: 1086px;">
+    <div style="font-family: 'Berlin Sans FB'; font-size: 57px; color: #008000; height: 59px; clip: rect(auto, 10px, auto, 10px); text-align: center;">
     
         AGUILA<br />
         <br />
@@ -58,6 +58,10 @@
 </TR>
 
 </TABLE>
+        <br />
+        <asp:Button ID="Button1" runat="server" BackColor="#99CC00" Height="31px" PostBackUrl="~/ActualizaRegisAve.aspx" Text="Actualizar Registro" Width="169px" />
+        <br />
+        <br />
     </form>
 </body>
 </html>

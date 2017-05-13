@@ -59,7 +59,8 @@
 </TR>
 
 </TABLE>
-        <asp:Button ID="Button2" runat="server" PostBackUrl="~/ActualizarRegistro.aspx" Text="Actualizar Registro" />
+        <br />
+        <asp:Button ID="Button2" runat="server" PostBackUrl="~/ActualizarRegisAcua.aspx" Text="Actualizar Registro" />
         <br />
         <br />
         <br />

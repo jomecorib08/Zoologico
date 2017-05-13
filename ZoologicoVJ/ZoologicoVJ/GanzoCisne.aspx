@@ -58,7 +58,8 @@
 </TR>
 
 </TABLE>
-        <asp:Button ID="Button1" runat="server" Text="Actualizar Registro" BackColor="#99CC00" Font-Names="Baskerville Old Face" ForeColor="Black" Height="34px" PostBackUrl="~/ActualizarRegistro.aspx" Width="152px" />
+        <br />
+        <asp:Button ID="Button1" runat="server" Text="Actualizar Registro" BackColor="#99CC00" Font-Names="Baskerville Old Face" ForeColor="Black" Height="34px" PostBackUrl="~/ActualizarRegisAcua.aspx" Width="152px" />
     </form>
 </body>
 </html>

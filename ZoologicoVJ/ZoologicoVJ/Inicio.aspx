@@ -8,7 +8,7 @@
     <title></title>
 </head>
 <body>
-    <form id="form1" runat="server">
+    <form id="form1" runat="server" style="background-image: url('img/fondo.png'); height: 1012px; width: 1148px;">
     <div>
     HOLAAA
     </div>

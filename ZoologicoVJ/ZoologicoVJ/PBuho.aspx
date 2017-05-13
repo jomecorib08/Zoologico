@@ -6,10 +6,16 @@
 <head runat="server">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
     <title></title>
+    <style type="text/css">
+        #form1 {
+            height: 1433px;
+            width: 1137px;
+        }
+    </style>
 </head>
 <body>
-    <form id="form1" runat="server">
-    <div style="font-family: 'Berlin Sans FB'; font-size: 57px; color: #008000; height: 59px; clip: rect(auto, 10px, auto, 10px);">
+    <form id="form1" runat="server" style="background-image: url('img/fondo.png')">
+    <div style="font-family: 'Berlin Sans FB'; font-size: 57px; color: #008000; height: 59px; clip: rect(auto, 10px, auto, 10px); text-align: center;">
     
         BUHO<br />
         <br />
@@ -19,7 +25,7 @@
         <br />
     
     </div>
-        <asp:ImageButton ID="ImageButton1" runat="server" Height="229px" ImageAlign="TextTop" ImageUrl="~/img/buho.jpg" style="margin-top: 17px" Width="282px" />
+        <asp:ImageButton ID="ImageButton1" runat="server" Height="229px" ImageAlign="TextTop" ImageUrl="~/img/buho.jpg" style="margin-top: 17px" Width="282px" BorderStyle="Solid" />
         <br />
         <br />
         <br />
@@ -58,6 +64,8 @@
 </TR>
 
 </TABLE>
+        <br />
+        <asp:Button ID="Button1" runat="server" BackColor="#99CC00" PostBackUrl="~/ActualizaRegisAve.aspx" Text="Actualizar Registro" />
     </form>
 </body>
 </html>

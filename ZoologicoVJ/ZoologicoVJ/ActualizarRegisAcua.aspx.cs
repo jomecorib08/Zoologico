@@ -7,8 +7,11 @@ using System.Web.UI.WebControls;
 
 namespace ZoologicoVJ
 {
-    public partial class PBarranquero : System.Web.UI.Page
+    public partial class ActualizarRegisAcua : System.Web.UI.Page
     {
-      
+        protected void Page_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

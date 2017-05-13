@@ -7,8 +7,8 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
     <title></title>
 </head>
-<body>
-    <form id="form1" runat="server" style="background-image: url('img/fondo.png')">
+<body style="height: 962px; width: 1087px">
+    <form id="form1" runat="server" style="background-image: url('img/fondo.png'); height: 1260px; width: 1218px;">
     <div style="font-family: 'Berlin Sans FB'; font-size: 57px; color: #008000; height: 59px; clip: rect(auto, 10px, auto, 10px); text-align: center;">
     
         NUTRIA<br />
@@ -58,7 +58,8 @@
 </TR>
 
 </TABLE>
-        <asp:Button ID="Button1" runat="server" BackColor="#CCCC00" ForeColor="Black" Height="37px" PostBackUrl="~/ActualizarRegistro.aspx" Text="Actualizar Registro" Width="137px" />
+        <br />
+        <asp:Button ID="Button1" runat="server" BackColor="#CCCC00" ForeColor="Black" Height="37px" PostBackUrl="~/ActualizarRegisAcua.aspx" Text="Actualizar Registro" Width="137px" />
     </form>
 </body>
 </html>

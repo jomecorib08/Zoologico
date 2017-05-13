@@ -7,18 +7,15 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
     <title></title>
 </head>
-<body>
-     <form id="form1" runat="server">
-    <div style="font-family: 'Berlin Sans FB'; font-size: 57px; color: #008000; height: 59px; clip: rect(auto, 10px, auto, 10px);">
+<body style="height: 1244px; width: 1107px">
+     <form id="form1" runat="server" style="background-image: url('img/fondo.png'); height: 845px;">
+   
     
-       BARRANQUERO<br />
+       <h1 style="text-align: center; font-family: 'Baskerville Old Face'; color: #008000">BARRANQUERO</h1> <br />
         <br />
-        <br />
-        <br />
-        <br />
-        <br />
+        
     
-    </div>
+    
         <asp:ImageButton ID="ImageButton1" runat="server" Height="229px" ImageAlign="TextTop" ImageUrl="~/img/barranquero.jpg" style="margin-top: 17px" Width="282px" />
         <br />
         <br />
@@ -58,6 +55,11 @@
 </TR>
 
 </TABLE>
+         <br />
+
+         <br />
+         <asp:Button ID="Button1" runat="server" BackColor="#99CC00" Height="43px" PostBackUrl="~/ActualizaRegisAve.aspx" Text="Actualizar Registro" Width="174px" />
+
     </form>
 </body>
 </html>
